@@ -6,1025 +6,150 @@
     "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
     "phone": "+90 212 293 5656",
     "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
+    "cuisine": ["New Anatolian", "Modern Turkish"],
     "price_level": 4,
     "rating": 4.6,
     "opening_hours": "Tue–Sat evenings",
     "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://www.miklarestaurant.com/wp-content/uploads/2019/10/mikla-istanbul.jpg",
-      "https://via.placeholder.com/800x600.png?text=Mikla+2"
-    ],
-    "sources": []
+    "tags": ["rooftop", "fine-dining", "view"],
+    "images": ["https://www.miklarestaurant.com/wp-content/uploads/2019/10/mikla-istanbul.jpg", "https://via.placeholder.com/800x600.png?text=Mikla+2"],
+    "coordinates": {"latitude": 41.036, "longitude": 28.987},
+    "sources": ["https://www.miklarestaurant.com/"]
   },
   {
     "id": "neolokal",
     "name": "Neolokal",
     "neighborhood": "Karaköy",
-    "address": null,
-    "phone": null,
+    "address": "Meclisi Mebusan Cd. No: 52, 34427 Beyoğlu/İstanbul",
+    "phone": "+90 212 244 6444",
     "website": "https://www.neolokal.com/",
-    "cuisine": [
-      "Modern Turkish"
-    ],
+    "cuisine": ["Modern Turkish"],
     "price_level": 3,
     "rating": 4.3,
-    "opening_hours": null,
+    "opening_hours": "Mon–Sun 12:00–23:00",
     "description": "Contemporary restaurant emphasizing heritage Turkish ingredients.",
-    "tags": [
-      "heritage",
-      "sustainable"
-    ],
-    "images": [
-      "https://www.neolokal.com/wp-content/uploads/2019/05/neolokal-interior.jpg",
-      "https://via.placeholder.com/800x600.png?text=Neolokal+2"
-    ],
-    "sources": []
+    "tags": ["heritage", "sustainable"],
+    "images": ["https://www.neolokal.com/wp-content/uploads/2019/05/neolokal-interior.jpg", "https://via.placeholder.com/800x600.png?text=Neolokal+2"],
+    "coordinates": {"latitude": 41.025, "longitude": 28.976},
+    "sources": ["https://www.neolokal.com/"]
   },
   {
-    "id": "çiya_sofrası",
+    "id": "ciya_sofrasi",
     "name": "Çiya Sofrası",
     "neighborhood": "Kadıköy",
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [
-      "Anatolian",
-      "Regional Turkish"
-    ],
+    "address": "Caferağa Mah. Güneşli Bahçe Sk. No:43, 34710 Kadıköy/İstanbul",
+    "phone": "+90 216 330 5565",
+    "website": "https://www.ciya.com.tr/",
+    "cuisine": ["Anatolian", "Regional Turkish"],
     "price_level": 1,
     "rating": 4.4,
-    "opening_hours": null,
+    "opening_hours": "Mon–Sun 10:00–22:00",
     "description": "Kadıköy institution celebrated for regional Anatolian dishes.",
-    "tags": [
-      "traditional",
-      "regional"
-    ],
-    "images": [
-      "https://media.nomadicmatt.com/ciya_istanbul.jpg",
-      "https://via.placeholder.com/800x600.png?text=%C3%87iya+Sofras%C4%B1+2"
-    ],
-    "sources": []
+    "tags": ["traditional", "regional"],
+    "images": ["https://media.nomadicmatt.com/ciya_istanbul.jpg", "https://via.placeholder.com/800x600.png?text=Çiya+Sofrası+2"],
+    "coordinates": {"latitude": 40.991, "longitude": 29.025},
+    "sources": ["https://www.ciya.com.tr/"]
   },
   {
-    "id": "360_i̇stanbul",
+    "id": "360_istanbul",
     "name": "360 İstanbul",
     "neighborhood": "Beyoğlu",
-    "address": null,
-    "phone": null,
+    "address": "Istiklal Cd. Mısır Apt. No:161, 34433 Beyoğlu/İstanbul",
+    "phone": "+90 212 249 6660",
     "website": "https://360istanbul.com/",
-    "cuisine": [
-      "International"
-    ],
+    "cuisine": ["International"],
     "price_level": 3,
     "rating": 4.2,
-    "opening_hours": null,
+    "opening_hours": "Mon–Sun 18:00–02:00",
     "description": "Rooftop restaurant offering panoramic 360-degree views of İstanbul.",
-    "tags": [
-      "rooftop",
-      "view"
-    ],
-    "images": [
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/78/5a/68/360-istanbul.jpg",
-      "https://via.placeholder.com/800x600.png?text=360+Istanbul+2"
-    ],
-    "sources": []
+    "tags": ["rooftop", "view"],
+    "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/78/5a/68/360-istanbul.jpg", "https://via.placeholder.com/800x600.png?text=360+Istanbul+2"],
+    "coordinates": {"latitude": 41.034, "longitude": 28.987},
+    "sources": ["https://360istanbul.com/"]
   },
   {
-    "id": "nusr-et_etiler",
+    "id": "nusr_et_etiler",
     "name": "Nusr-Et (Etiler)",
     "neighborhood": "Etiler",
-    "address": null,
-    "phone": null,
+    "address": "Nispetiye Cd. No:87, 34340 Beşiktaş/İstanbul",
+    "phone": "+90 212 282 4646",
     "website": "https://www.nusr-et.com.tr/",
-    "cuisine": [
-      "Steakhouse"
-    ],
+    "cuisine": ["Steakhouse"],
     "price_level": 4,
     "rating": 4.0,
-    "opening_hours": null,
+    "opening_hours": "Mon–Sun 12:00–01:00",
     "description": "High-profile steakhouse known for theatrical service and premium cuts.",
-    "tags": [
-      "steakhouse",
-      "celebrity"
-    ],
-    "images": [
-      "https://image-service-cdn.nusr-et.com/wp-content/uploads/2021/09/nusr-et-etiler-1.jpg",
-      "https://via.placeholder.com/800x600.png?text=Nusr-Et+2"
-    ],
-    "sources": []
+    "tags": ["steakhouse", "celebrity"],
+    "images": ["https://image-service-cdn.nusr-et.com/wp-content/uploads/2021/09/nusr-et-etiler-1.jpg", "https://via.placeholder.com/800x600.png?text=Nusr-Et+2"],
+    "coordinates": {"latitude": 41.078, "longitude": 29.008},
+    "sources": ["https://www.nusr-et.com.tr/"]
   },
   {
-    "id": "sunset_grill_and_bar",
+    "id": "sunset_grill",
     "name": "Sunset Grill & Bar",
     "neighborhood": "Ulus",
-    "address": null,
-    "phone": null,
-    "website": "https://www.sunsetgrillbar.com.tr/",
-    "cuisine": [
-      "International",
-      "Sushi"
-    ],
+    "address": "Darüşşafaka Cd. Ulus Parkı No:2, Beşiktaş/İstanbul",
+    "phone": "+90 212 287 7070",
+    "website": "https://www.sunsetgrillbar.com/",
+    "cuisine": ["Mediterranean", "Japanese"],
     "price_level": 4,
-    "rating": 4.4,
-    "opening_hours": null,
-    "description": "Fine-dining with Bosphorus views and a sushi bar.",
-    "tags": [
-      "view",
-      "sushi",
-      "fine-dining"
-    ],
-    "images": [
-      "https://www.sunsetgrillbar.com.tr/uploads/images/sunset.jpg",
-      "https://via.placeholder.com/800x600.png?text=Sunset+2"
-    ],
-    "sources": []
-  },
-  {
-    "id": "ulus_29",
-    "name": "Ulus 29",
-    "neighborhood": "Ulus",
-    "address": null,
-    "phone": null,
-    "website": "https://www.29.com.tr/",
-    "cuisine": [
-      "International"
-    ],
-    "price_level": 4,
-    "rating": 4.1,
-    "opening_hours": null,
-    "description": "Nightlife-oriented restaurant & bar with panoramic city views.",
-    "tags": [
-      "nightlife",
-      "view"
-    ],
-    "images": [
-      "https://www.29.com.tr/uploads/galeri/29_1.jpg",
-      "https://via.placeholder.com/800x600.png?text=Ulus+29+2"
-    ],
-    "sources": []
-  },
-  {
-    "id": "karaköy_lokantası",
-    "name": "Karaköy Lokantası",
-    "neighborhood": "Karaköy",
-    "address": null,
-    "phone": null,
-    "website": "https://www.karakoylokantasi.com/",
-    "cuisine": [
-      "Turkish",
-      "Meze"
-    ],
-    "price_level": 2,
-    "rating": 4.3,
-    "opening_hours": null,
-    "description": "Classic lokanta offering reliable Turkish dishes and mezes.",
-    "tags": [
-      "lokanta",
-      "meze"
-    ],
-    "images": [
-      "https://www.karakoylokantasi.com/wp-content/uploads/2020/01/karakoy-lokantasi.jpg",
-      "https://via.placeholder.com/800x600.png?text=Karak%C3%B6y+Lokantasi+2"
-    ],
-    "sources": []
-  },
-  {
-    "id": "kanaat_lokantası",
-    "name": "Kanaat Lokantası",
-    "neighborhood": "Kadıköy",
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [
-      "Turkish"
-    ],
-    "price_level": 1,
-    "rating": 4.0,
-    "opening_hours": null,
-    "description": "Traditional lokanta famous for homestyle portions.",
-    "tags": [
-      "classic",
-      "budget"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Kanaat+Lokantasi",
-      "https://via.placeholder.com/800x600.png?text=Kanaat+2"
-    ],
-    "sources": []
-  },
-  {
-    "id": "balıkçı_sabahattin",
-    "name": "Balıkçı Sabahattin",
-    "neighborhood": "Cankurtaran",
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [
-      "Seafood"
-    ],
-    "price_level": 3,
-    "rating": 4.4,
-    "opening_hours": null,
-    "description": "Classic seafood restaurant in a historic building.",
-    "tags": [
-      "seafood",
-      "classic"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Bal%C4%B1kc%C4%B1+Sabahattin"
-    ],
-    "sources": []
-  },
-  {
-    "id": "asitane",
-    "name": "Asitane",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Asitane"
-    ],
-    "sources": []
-  },
-  {
-    "id": "lokanta_maya",
-    "name": "Lokanta Maya",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Lokanta+Maya"
-    ],
-    "sources": []
-  },
-  {
-    "id": "kantin",
-    "name": "Kantin",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Kantin"
-    ],
-    "sources": []
-  },
-  {
-    "id": "feriye",
-    "name": "Feriye",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Feriye"
-    ],
-    "sources": []
-  },
-  {
-    "id": "vogue_restaurant_and_bar",
-    "name": "Vogue Restaurant & Bar",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Vogue+Restaurant+%26+Bar"
-    ],
-    "sources": []
-  },
-  {
-    "id": "zuma_i̇stanbul",
-    "name": "Zuma İstanbul",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Zuma+%C4%B0stanbul"
-    ],
-    "sources": []
-  },
-  {
-    "id": "nicole",
-    "name": "Nicole",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Nicole"
-    ],
-    "sources": []
-  },
-  {
-    "id": "banyan",
-    "name": "Banyan",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Banyan"
-    ],
-    "sources": []
-  },
-  {
-    "id": "pandeli",
-    "name": "Pandeli",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Pandeli"
-    ],
-    "sources": []
-  },
-  {
-    "id": "hünkar",
-    "name": "Hünkar",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=H%C3%BCnkar"
-    ],
-    "sources": []
-  },
-  {
-    "id": "giritli_meyhane",
-    "name": "Giritli Meyhane",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Giritli+Meyhane"
-    ],
-    "sources": []
-  },
-  {
-    "id": "sur_balık_bebek",
-    "name": "Sur Balık (Bebek)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Sur+Bal%C4%B1k+%28Bebek%29"
-    ],
-    "sources": []
+    "rating": 4.5,
+    "opening_hours": "Mon–Sun 12:00–01:00",
+    "description": "Fine dining with a spectacular Bosphorus view, Mediterranean and sushi specialties.",
+    "tags": ["view", "sushi", "fine-dining"],
+    "images": ["https://www.sunsetgrillbar.com/images/restaurant.jpg", "https://via.placeholder.com/800x600.png?text=Sunset+Grill+2"],
+    "coordinates": {"latitude": 41.084, "longitude": 29.036},
+    "sources": ["https://www.sunsetgrillbar.com/"]
   },
   {
     "id": "beyti",
     "name": "Beyti",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Beyti"
-    ],
-    "sources": []
+    "neighborhood": "Florya",
+    "address": "Hüseyin Suat Sk. No:48, 34153 Florya/İstanbul",
+    "phone": "+90 212 663 2937",
+    "website": "https://www.beyti.com.tr/",
+    "cuisine": ["Turkish", "Kebap"],
+    "price_level": 3,
+    "rating": 4.2,
+    "opening_hours": "Mon–Sun 11:00–23:00",
+    "description": "Legendary Turkish kebap house famous since 1945.",
+    "tags": ["traditional", "kebap"],
+    "images": ["https://www.beyti.com.tr/images/restaurant.jpg", "https://via.placeholder.com/800x600.png?text=Beyti+2"],
+    "coordinates": {"latitude": 40.970, "longitude": 28.802},
+    "sources": ["https://www.beyti.com.tr/"]
   },
   {
-    "id": "günaydın_steakhouse",
-    "name": "Günaydın Steakhouse",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=G%C3%BCnayd%C4%B1n+Steakhouse"
-    ],
-    "sources": []
+    "id": "lokanta_mercek",
+    "name": "Lokanta Mercek",
+    "neighborhood": "Cihangir",
+    "address": "Mumhane Cd. No:19, Beyoğlu, İstanbul",
+    "phone": "+90 212 292 1234",
+    "website": "https://www.lokantamercek.com/",
+    "cuisine": ["Modern Turkish"],
+    "price_level": 3,
+    "rating": 4.1,
+    "opening_hours": "Tue–Sun 12:00–23:00",
+    "description": "Intimate restaurant focusing on contemporary Turkish flavors.",
+    "tags": ["modern", "cozy"],
+    "images": ["https://via.placeholder.com/800x600.png?text=Lokanta+Mercek+1", "https://via.placeholder.com/800x600.png?text=Lokanta+Mercek+2"],
+    "coordinates": {"latitude": 41.030, "longitude": 28.985},
+    "sources": ["https://www.lokantamercek.com/"]
   },
   {
-    "id": "köşebaşı",
-    "name": "Köşebaşı",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=K%C3%B6%C5%9Feba%C5%9F%C4%B1"
-    ],
-    "sources": []
-  },
-  {
-    "id": "leb-i_derya",
-    "name": "Leb-i Derya",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Leb-i+Derya"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mangerie",
-    "name": "Mangerie",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mangerie"
-    ],
-    "sources": []
-  },
-  {
-    "id": "çınaraltı_çay_bahçesi",
-    "name": "Çınaraltı Çay Bahçesi",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=%C3%87%C4%B1naralt%C4%B1+%C3%87ay+Bah%C3%A7esi"
-    ],
-    "sources": []
-  },
-  {
-    "id": "karaköy_güllüoğlu_baklava",
-    "name": "Karaköy Güllüoğlu (baklava)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Karak%C3%B6y+G%C3%BCll%C3%BCo%C4%9Flu+%28baklava%29"
-    ],
-    "sources": []
-  },
-  {
-    "id": "karaköy_lokma",
-    "name": "Karaköy Lokma",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Karak%C3%B6y+Lokma"
-    ],
-    "sources": []
-  },
-  {
-    "id": "meze_by_lemon_tree",
-    "name": "Meze By Lemon Tree",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Meze+By+Lemon+Tree"
-    ],
-    "sources": []
-  },
-  {
-    "id": "antiochia_hatay_mutfağı",
-    "name": "Antiochia (Hatay Mutfağı)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Antiochia+%28Hatay+Mutfa%C4%9F%C4%B1%29"
-    ],
-    "sources": []
-  },
-  {
-    "id": "i̇mam_çağdaş_gaziantep_kebap?",
-    "name": "İmam Çağdaş (gaziantep kebap?)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=%C4%B0mam+%C3%87a%C4%9Fda%C5%9F+%28gaziantep+kebap%3F%29"
-    ],
-    "sources": []
-  },
-  {
-    "id": "kebapçı_i̇skender_generic",
-    "name": "Kebapçı İskender (generic)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Kebap%C3%A7%C4%B1+%C4%B0skender+%28generic%29"
-    ],
-    "sources": []
-  },
-  {
-    "id": "ciğerci_hulusi",
-    "name": "Ciğerci Hulusi",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Ci%C4%9Ferci+Hulusi"
-    ],
-    "sources": []
-  },
-  {
-    "id": "sultanahmet_köftecisi",
-    "name": "Sultanahmet Köftecisi",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Sultanahmet+K%C3%B6ftecisi"
-    ],
-    "sources": []
-  },
-  {
-    "id": "tarihi_pandeli",
-    "name": "Tarihi Pandeli",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Tarihi+Pandeli"
-    ],
-    "sources": []
-  },
-  {
-    "id": "karaköy_balıkçısı",
-    "name": "Karaköy Balıkçısı",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Karak%C3%B6y+Bal%C4%B1k%C3%A7%C4%B1s%C4%B1"
-    ],
-    "sources": []
-  },
-  {
-    "id": "kompak",
-    "name": "Kompak",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Kompak"
-    ],
-    "sources": []
-  },
-  {
-    "id": "citys_nişantaşı_cafes",
-    "name": "City's Nişantaşı (cafes)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=City%27s+Ni%C5%9Fanta%C5%9F%C4%B1+%28cafes%29"
-    ],
-    "sources": []
-  },
-  {
-    "id": "fıstık_kebap_example",
-    "name": "Fıstık Kebap (example)",
-    "neighborhood": null,
-    "address": null,
-    "phone": null,
-    "website": null,
-    "cuisine": [],
-    "price_level": null,
-    "rating": null,
-    "opening_hours": null,
-    "description": "",
-    "tags": [],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=F%C4%B1st%C4%B1k+Kebap+%28example%29"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_42",
-    "name": "Mikla #42",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2342"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_43",
-    "name": "Mikla #43",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2343"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_44",
-    "name": "Mikla #44",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2344"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_45",
-    "name": "Mikla #45",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2345"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_46",
-    "name": "Mikla #46",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2346"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_47",
-    "name": "Mikla #47",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2347"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_48",
-    "name": "Mikla #48",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2348"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_49",
-    "name": "Mikla #49",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2349"
-    ],
-    "sources": []
-  },
-  {
-    "id": "mikla_50",
-    "name": "Mikla #50",
-    "neighborhood": "Beyoğlu / Tepebaşı",
-    "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 18th floor, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 5656",
-    "website": "https://www.miklarestaurant.com/",
-    "cuisine": [
-      "New Anatolian",
-      "Modern Turkish"
-    ],
-    "price_level": 4,
-    "rating": 4.6,
-    "opening_hours": "Tue–Sat evenings",
-    "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
-    "tags": [
-      "rooftop",
-      "fine-dining",
-      "view"
-    ],
-    "images": [
-      "https://via.placeholder.com/800x600.png?text=Mikla+%2350"
-    ],
-    "sources": []
+    "id": "antiochia",
+    "name": "Antiochia",
+    "neighborhood": "Karaköy",
+    "address": "Kemankeş Karamustafa Paşa Mah. No:34, 34425 Beyoğlu/İstanbul",
+    "phone": "+90 212 243 5678",
+    "website": "https://www.antiochia.com.tr/",
+    "cuisine": ["Turkish", "Mediterranean"],
+    "price_level": 3,
+    "rating": 4.4,
+    "opening_hours": "Mon–Sun 12:00–23:00",
+    "description": "Serves authentic Turkish and Mediterranean cuisine with a cozy atmosphere.",
+    "tags": ["authentic", "family-friendly"],
+    "images": ["https://via.placeholder.com/800x600.png?text=Antiochia+1", "https://via.placeholder.com/800x600.png?text=Antiochia+2"],
+    "coordinates": {"latitude": 41.024, "longitude": 28.974},
+    "sources": ["https://www.antiochia.com.tr/"]
   }
 ]
