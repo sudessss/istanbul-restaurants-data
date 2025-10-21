@@ -12,7 +12,7 @@
     "opening_hours": "Tue–Sat evenings",
     "description": "Rooftop fine-dining restaurant known for New Anatolian cuisine and panoramic city views.",
     "tags": ["rooftop", "fine-dining", "view"],
-    "images": ["https://www.miklarestaurant.com/wp-content/uploads/2019/10/mikla-istanbul.jpg", "https://via.placeholder.com/800x600.png?text=Mikla+2"],
+    "images": ["https://istanbulite.com/wp-content/uploads/2023/10/mikla-600x400-1.jpg", "https://www.miklarestaurant.com/media/gy2d2xkr/1.jpg"],
     "coordinates": {"latitude": 41.036, "longitude": 28.987},
     "sources": ["https://www.miklarestaurant.com/"]
   },
@@ -29,7 +29,7 @@
     "opening_hours": "Mon–Sun 12:00–23:00",
     "description": "Contemporary restaurant emphasizing heritage Turkish ingredients.",
     "tags": ["heritage", "sustainable"],
-    "images": ["https://www.neolokal.com/wp-content/uploads/2019/05/neolokal-interior.jpg", "https://via.placeholder.com/800x600.png?text=Neolokal+2"],
+    "images": ["https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1051/medium_Neolokal_Interior.jpg", "https://media.timeout.com/images/103501452/750/422/image.jpg", "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/982/medium_Mikla_Istanbul_Terrace.jpg"],
     "coordinates": {"latitude": 41.025, "longitude": 28.976},
     "sources": ["https://www.neolokal.com/"]
   },
@@ -46,7 +46,7 @@
     "opening_hours": "Mon–Sun 10:00–22:00",
     "description": "Kadıköy institution celebrated for regional Anatolian dishes.",
     "tags": ["traditional", "regional"],
-    "images": ["https://media.nomadicmatt.com/ciya_istanbul.jpg", "https://via.placeholder.com/800x600.png?text=Çiya+Sofrası+2"],
+    "images": ["https://kadikoytarihicarsi.com/wp-content/uploads/2018/02/çiya-1.jpg", "https://media.timeout.com/images/103459514/image.jpg"],
     "coordinates": {"latitude": 40.991, "longitude": 29.025},
     "sources": ["https://www.ciya.com.tr/"]
   },
@@ -63,7 +63,7 @@
     "opening_hours": "Mon–Sun 18:00–02:00",
     "description": "Rooftop restaurant offering panoramic 360-degree views of İstanbul.",
     "tags": ["rooftop", "view"],
-    "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/78/5a/68/360-istanbul.jpg", "https://via.placeholder.com/800x600.png?text=360+Istanbul+2"],
+    "images": ["https://mekanlar.com/img/img164/17b9071dc6d3b470b07f2282face2d757138aeba_plc_667a615d64e8c5a1faf0c85e181f90e2.jpg", "https://cdn-tr.bodo.gift/resize/upload/gallery/4564/77596/original-t1653387170-r1w768h425q90zc1.jpg"],
     "coordinates": {"latitude": 41.034, "longitude": 28.987},
     "sources": ["https://360istanbul.com/"]
   },
@@ -80,7 +80,7 @@
     "opening_hours": "Mon–Sun 12:00–01:00",
     "description": "High-profile steakhouse known for theatrical service and premium cuts.",
     "tags": ["steakhouse", "celebrity"],
-    "images": ["https://image-service-cdn.nusr-et.com/wp-content/uploads/2021/09/nusr-et-etiler-1.jpg", "https://via.placeholder.com/800x600.png?text=Nusr-Et+2"],
+    "images": ["https://www.nusr-et.com.tr/Resources/VenueBanner/ImageFile/etilerbanner3_l.jpg", "https://www.nusr-et.com.tr/Resources/VenueBanner/ImageFile/etilerbanner2_l.jpg"],
     "coordinates": {"latitude": 41.078, "longitude": 29.008},
     "sources": ["https://www.nusr-et.com.tr/"]
   },
@@ -97,7 +97,7 @@
     "opening_hours": "Mon–Sun 12:00–01:00",
     "description": "Fine dining with a spectacular Bosphorus view, Mediterranean and sushi specialties.",
     "tags": ["view", "sushi", "fine-dining"],
-    "images": ["https://www.sunsetgrillbar.com/images/restaurant.jpg", "https://via.placeholder.com/800x600.png?text=Sunset+Grill+2"],
+    "images": ["https://i.dugun.com/gallery/2728/preview_sunset-grill-bar-galerisi-1466689066.jpg", "https://www.istanbulmekanrehberi.com/images/sunset-grill-bar-istanbul-1.jpg"],
     "coordinates": {"latitude": 41.084, "longitude": 29.036},
     "sources": ["https://www.sunsetgrillbar.com/"]
   },
@@ -114,7 +114,7 @@
     "opening_hours": "Mon–Sun 11:00–23:00",
     "description": "Legendary Turkish kebap house famous since 1945.",
     "tags": ["traditional", "kebap"],
-    "images": ["https://www.beyti.com.tr/images/restaurant.jpg", "https://via.placeholder.com/800x600.png?text=Beyti+2"],
+    "images": ["https://media.timeout.com/images/105377905/750/422/image.jpg", "https://media.timeout.com/images/105552225/750/422/image.jpg","https://img.piri.net/mnresize/900/-/resim/imagecrop/2020/08/31/12/21/resized_f582e-cb783b3foriginal.jpg"],
     "coordinates": {"latitude": 40.970, "longitude": 28.802},
     "sources": ["https://www.beyti.com.tr/"]
   },
