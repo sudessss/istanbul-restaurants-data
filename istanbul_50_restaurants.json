@@ -613,7 +613,7 @@
     "categories": ["Lüks Restoranlar"]
   },
   {
-    "id": "15",
+    "id": "35",
     "name": "Vogue Restaurant & Bar",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Süleyman Seba Cad. No:46, Akaretler, Beşiktaş, İstanbul",
@@ -631,7 +631,7 @@
     "categories": ["Lüks Restoranlar"]
   },
   {
-    "id": "16",
+    "id": "36",
     "name": "Matbah Osmanlı Saray Mutfağı",
     "neighborhood": "Fatih",
     "address": "Caferiye Sok. No:6/1, Sultanahmet, Fatih, İstanbul",
@@ -649,7 +649,7 @@
     "categories": ["Lüks Restoranlar"]
   },
   {
-    "id": "32",
+    "id": "37",
     "name": "Aheste",
     "neighborhood": "Pera",
     "address": "Meşrutiyet Cd. No:107/A, Tepebaşı, Beyoğlu, İstanbul",
@@ -667,7 +667,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "33",
+    "id": "38",
     "name": "Zennup 1844",
     "neighborhood": "Beşiktaş",
     "address": "Akat Mah. Zeytinoğlu Cd. No:112, Etiler, Beşiktaş, İstanbul",
@@ -685,7 +685,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "34",
+    "id": "39",
     "name": "Tershane",
     "neighborhood": "Beyoğlu",
     "address": "Karaköy, Kemeraltı Cd. No:14, Beyoğlu, İstanbul",
@@ -703,7 +703,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "35",
+    "id": "40",
     "name": "Alaf",
     "neighborhood": "Kuruçeşme",
     "address": "Kuruçeşme Mah. Muallim Naci Cd. No:56, Beşiktaş, İstanbul",
@@ -721,7 +721,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "36",
+    "id": "41",
     "name": "Tugra Restaurant & Lounge",
     "neighborhood": "Beşiktaş",
     "address": "Çırağan Cd. No:32, Çırağan Palace Kempinski, Beşiktaş, İstanbul",
@@ -739,7 +739,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "37",
+    "id": "42",
     "name": "Neolokal",
     "neighborhood": "Karaköy",
     "address": "Bankalar Cd. No:5, Salt Galata, Karaköy, İstanbul",
@@ -757,7 +757,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "38",
+    "id": "43",
     "name": "Giritli Restoran",
     "neighborhood": "Cankurtaran",
     "address": "Keresteci Hakkı Sok. No:8, Cankurtaran, Fatih, İstanbul",
@@ -775,7 +775,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "39",
+    "id": "44",
     "name": "Spago İstanbul",
     "neighborhood": "Şişli",
     "address": "The St. Regis Istanbul, Mim Kemal Öke Cd. No:35, Nişantaşı, Şişli, İstanbul",
@@ -793,7 +793,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "40",
+    "id": "45",
     "name": "Zuma İstanbul",
     "neighborhood": "Beşiktaş",
     "address": "Ortaköy Mah. Muallim Naci Cd. No:64, Beşiktaş, İstanbul",
@@ -811,7 +811,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": "41",
+    "id": "46",
     "name": "Sarnıç Fine Dining",
     "neighborhood": "Fatih",
     "address": "Sultanahmet Mah. Soğuk Çeşme Sok. No:26, Fatih, İstanbul",
@@ -829,7 +829,7 @@
     "categories": "Türk Mutfağı"
   },
   {
-    "id": 17,
+    "id": "47",
     "name": "Çiya Sofrası",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Güneşli Bahçe Sok. No:43, Kadıköy, İstanbul",
@@ -847,7 +847,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 18,
+    "id": "48",
     "name": "Hünkar Lokantası",
     "neighborhood": "Şişli",
     "address": "Mim Kemal Öke Cad. No:1, Nişantaşı, Şişli, İstanbul",
@@ -865,7 +865,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 19,
+    "id": "49",
     "name": "Deraliye Osmanlı Saray Mutfağı",
     "neighborhood": "Fatih",
     "address": "Alemdar Mah. Ticarethane Sok. No:10, Sultanahmet, Fatih, İstanbul",
@@ -883,7 +883,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 20,
+    "id": "50",
     "name": "Karaköy Lokantası",
     "neighborhood": "Beyoğlu",
     "address": "Kemankeş Karamustafa Paşa Mah. Kemankeş Cad. No:37A, Karaköy, İstanbul",
@@ -901,7 +901,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 21,
+    "id": "51",
     "name": "Beyti",
     "neighborhood": "Florya",
     "address": "Şenlikköy Mah. Florya Cad. No:7, Florya, Bakırköy, İstanbul",
@@ -919,7 +919,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 22,
+    "id": "52",
     "name": "Develi Samatya",
     "neighborhood": "Fatih",
     "address": "Samatya Mah. Gümüşyüzük Sok. No:3, Samatya, Fatih, İstanbul",
@@ -937,7 +937,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 23,
+    "id": "53",
     "name": "Pandeli",
     "neighborhood": "Fatih",
     "address": "Rüstem Paşa Mah. Mısır Çarşısı No:1/1, Eminönü, Fatih, İstanbul",
@@ -955,7 +955,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 24,
+    "id": "54",
     "name": "Hamdi Restoran",
     "neighborhood": "Fatih",
     "address": "Rüstempaşa Mah. Tahmis Cad. Kalçın Sok. No:17, Eminönü, İstanbul",
@@ -973,7 +973,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 25,
+    "id": "55",
     "name": "Borsa Restaurant",
     "neighborhood": "Şişli",
     "address": "Abdi İpekçi Cad. No:18, Nişantaşı, Şişli, İstanbul",
@@ -991,7 +991,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 26,
+    "id": "56",
     "name": "Fıccın",
     "neighborhood": "Beyoğlu",
     "address": "İstiklal Cad. Kallavi Sok. No:13, Beyoğlu, İstanbul",
@@ -1009,7 +1009,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 27,
+    "id": "57",
     "name": "Kanaat Lokantası",
     "neighborhood": "Üsküdar",
     "address": "Selmanipak Cad. No:9, Üsküdar, İstanbul",
@@ -1027,7 +1027,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 28,
+    "id": "58",
     "name": "Bayramoğlu Döner",
     "neighborhood": "Beykoz",
     "address": "Rüzgarlıbahçe Mah. G-63 Sok. No:11, Kavacık, Beykoz, İstanbul",
@@ -1045,7 +1045,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 29,
+    "id": "59",
     "name": "Köşebaşı",
     "neighborhood": "Sarıyer",
     "address": "Maslak Mah. Ahi Evran Cad. No:6 D:9, Maslak, Sarıyer, İstanbul",
@@ -1063,7 +1063,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 30,
+    "id": "60",
     "name": "Adana Ocakbaşı Pangaltı",
     "neighborhood": "Şişli",
     "address": "Ergenekon Mah. Halaskargazi Cad. No:170, Pangaltı, Şişli, İstanbul",
@@ -1081,7 +1081,7 @@
     "categories": ["Türk Mutfağı"]
   },
   {
-    "id": 31,
+    "id": "61",
     "name": "Lokanta 1741",
     "neighborhood": "Fatih",
     "address": "Hoca Paşa Mah. Ankara Cad. No:69, Sirkeci, Fatih, İstanbul",
@@ -1100,7 +1100,7 @@
   },
     
   {
-    "id": 32,
+    "id": "62",
     "name": "Zula",
     "neighborhood": "Şişli",
     "address": "Harbiye Mah. Bostan Cad. No:12, Harbiye, Şişli, İstanbul",
@@ -1118,7 +1118,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 33,
+    "id": "63",
     "name": "Akali",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Süleyman Seba Cad. No:50/A, Akaretler, Beşiktaş, İstanbul",
@@ -1136,7 +1136,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 34,
+    "id": "64",
     "name": "Biber Burger",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Şair Nedim Cad. No:31/A, Beşiktaş, İstanbul",
@@ -1154,7 +1154,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 35,
+    "id": "65",
     "name": "Basta Street Food Bar",
     "neighborhood": "Kadıköy",
     "address": "Osmanağa Mah. Sakız Sok. No:1, Moda, Kadıköy, İstanbul",
@@ -1172,7 +1172,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 36,
+    "id": "66",
     "name": "Cross Fingers",
     "neighborhood": "Şişli",
     "address": "Cumhuriyet Mah. İskender Sok. No:6, Bomonti, Şişli, İstanbul",
@@ -1190,7 +1190,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 37,
+    "id": "67",
     "name": "White Burger",
     "neighborhood": "Kadıköy",
     "address": "Feneryolu Mah. Bağdat Cad. No:99, Kadıköy, İstanbul",
@@ -1208,7 +1208,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 38,
+    "id": "68",
     "name": "Banko Burger",
     "neighborhood": "Kadıköy",
     "address": "Caddebostan Mah. Bağdat Cad. No:291/A, Caddebostan, Kadıköy, İstanbul",
@@ -1226,7 +1226,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 39,
+    "id": "69",
     "name": "Snob Street Food",
     "neighborhood": "Kadıköy",
     "address": "Osmanağa Mah. General Asım Gündüz Cad. No:82/A, Moda, Kadıköy, İstanbul",
@@ -1244,7 +1244,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 40,
+    "id": "70",
     "name": "Upperdeck American Diner",
     "neighborhood": "Beşiktaş",
     "address": "Sinanpaşa Mah. Şair Nedim Cad. No:19, Beşiktaş, İstanbul",
@@ -1262,7 +1262,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 41,
+    "id": "71",
     "name": "Pideban",
     "neighborhood": "Beyoğlu",
     "address": "Kuloğlu Mah. Boğazkesen Cad. No:103/B, Cihangir, Beyoğlu, İstanbul",
@@ -1280,7 +1280,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 42,
+    "id": "72",
     "name": "Kokoreççi Erdinç",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Şair Latifi Sok. No:5, Kadıköy, İstanbul",
@@ -1298,7 +1298,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 43,
+    "id": "73",
     "name": "Akın Balık",
     "neighborhood": "Beyoğlu",
     "address": "Azapkapı Mah. Fermeneciler Cad. No:40/A, Karaköy, Beyoğlu, İstanbul",
@@ -1316,7 +1316,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 44,
+    "id": "74",
     "name": "Goralı",
     "neighborhood": "Şişli",
     "address": "Teşvikiye Mah. Hüsrev Gerede Cad. No:131, Teşvikiye, Şişli, İstanbul",
@@ -1334,7 +1334,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 45,
+    "id": "75",
     "name": "Rebel",
     "neighborhood": "Ataşehir",
     "address": "Küçükbakkalköy Mah. Işıklar Cad. No:31, Ataşehir, İstanbul",
@@ -1352,7 +1352,7 @@
     "categories": "Fast Food"
   },
   {
-    "id": 46,
+    "id": "76",
     "name": "Mr. Hamza",
     "neighborhood": "Şişli",
     "address": "Cumhuriyet Mah. Ergenekon Cad. No:50, Şişli, İstanbul",
@@ -1371,7 +1371,7 @@
   },
     
   {
-    "id": "47",
+    "id": "77",
     "name": "Da Mario",
     "neighborhood": "Beşiktaş",
     "address": "Etiler Mah. Dilhayat Sok. No:16, Etiler, Beşiktaş, İstanbul",
@@ -1389,7 +1389,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "48",
+    "id": "78",
     "name": "Antica Locanda",
     "neighborhood": "Beşiktaş",
     "address": "Arnavutköy Mah. 1. Cad. No:71, Arnavutköy, Beşiktaş, İstanbul",
@@ -1407,7 +1407,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "49",
+    "id": "79",
     "name": "Trattoria La Scarpetta",
     "neighborhood": "Beşiktaş",
     "address": "Etiler Mah. Dilhayat Sok. No:10, Etiler, Beşiktaş, İstanbul",
@@ -1425,7 +1425,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "50",
+    "id": "80",
     "name": "Il Sud",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Moda Cad. No:100/A, Moda, Kadıköy, İstanbul",
@@ -1443,7 +1443,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "51",
+    "id": "81",
     "name": "IL Cortile",
     "neighborhood": "Beyoğlu",
     "address": "Bereketzade Mah. Şair Ziya Paşa Cad. No:20/1, Galata, Beyoğlu, İstanbul",
@@ -1461,7 +1461,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "52",
+    "id": "82",
     "name": "Mezzaluna",
     "neighborhood": "Sarıyer",
     "address": "İstinyePark AVM, Pınar Mah. Katar Cad. No:11, İstinye, Sarıyer, İstanbul",
@@ -1479,7 +1479,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "53",
+    "id": "83",
     "name": "Eataly İstanbul",
     "neighborhood": "Beşiktaş",
     "address": "Zorlu Center, Koru Sok. No:2, Beşiktaş, İstanbul",
@@ -1497,7 +1497,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "54",
+    "id": "84",
     "name": "Paps Italian",
     "neighborhood": "Beşiktaş",
     "address": "Etiler Mah. Nispetiye Cad. No:111/A, Etiler, Beşiktaş, İstanbul",
@@ -1515,7 +1515,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "55",
+    "id": "85",
     "name": "Rita Moda",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Serasker Cad. No:46, Moda, Kadıköy, İstanbul",
@@ -1533,7 +1533,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "56",
+    "id": "86",
     "name": "La Mia Luce",
     "neighborhood": "Kadıköy",
     "address": "Suadiye Mah. Bağdat Cad. No:404, Suadiye, Kadıköy, İstanbul",
@@ -1551,7 +1551,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "57",
+    "id": "87",
     "name": "Fauna",
     "neighborhood": "Ataşehir",
     "address": "Küçükbakkalköy Mah. Işıklar Cad. No:31/C, Ataşehir, İstanbul",
@@ -1569,7 +1569,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "58",
+    "id": "88",
     "name": "Ristorante Pizzeria Il Forno",
     "neighborhood": "Beyoğlu",
     "address": "Tomtom Mah. Yeni Çarşı Cad. No:44, Beyoğlu, İstanbul",
@@ -1587,7 +1587,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "59",
+    "id": "89",
     "name": "La Fontana di Trevi",
     "neighborhood": "Beyoğlu",
     "address": "Gümüşsuyu Mah. İnönü Cad. No:20, Gümüşsuyu, Beyoğlu, İstanbul",
@@ -1605,7 +1605,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "60",
+    "id": "90",
     "name": "Ristorante il Padrino",
     "neighborhood": "Kadıköy",
     "address": "Caddebostan Mah. Bağdat Cad. No:291/B, Caddebostan, Kadıköy, İstanbul",
@@ -1623,7 +1623,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "61",
+    "id": "91",
     "name": "The Ordinary",
     "neighborhood": "Şişli",
     "address": "Cumhuriyet Mah. İskender Sok. No:6, Bomonti, Şişli, İstanbul",
@@ -1641,7 +1641,7 @@
     "categories": "İtalyan"
   },
   {
-    "id": "62",
+    "id": "92",
     "name": "Çeşme Bazlama Kahvaltı",
     "neighborhood": "Şişli",
     "address": "Teşvikiye Mah. Ahmet Fetgari Sok. No:59, Nişantaşı, Şişli, İstanbul",
@@ -1659,7 +1659,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "63",
+    "id": "93",
     "name": "Van Kahvaltı Evi",
     "neighborhood": "Beyoğlu",
     "address": "Kılıçali Paşa Mah. Defterdar Yokuşu No:52/A, Cihangir, Beyoğlu, İstanbul",
@@ -1677,7 +1677,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "64",
+    "id": "94",
     "name": "Brekkie Breakfast Club",
     "neighborhood": "Kadıköy",
     "address": "Osmanağa Mah. Yoğurtçu Parkı Cad. No:24/1, Kadıköy, İstanbul",
@@ -1695,7 +1695,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "65",
+    "id": "95",
     "name": "Privato Cafe",
     "neighborhood": "Beyoğlu",
     "address": "Şahkulu Mah. Tımarcı Sok. No:3, Galata, Beyoğlu, İstanbul",
@@ -1713,7 +1713,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "66",
+    "id": "96",
     "name": "Namlı Gurme",
     "neighborhood": "Beyoğlu",
     "address": "Kemankeş Karamustafa Paşa Mah. Rıhtım Cad. No:1/1A, Karaköy, Beyoğlu, İstanbul",
@@ -1731,7 +1731,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "67",
+    "id": "97",
     "name": "Sade Kahve",
     "neighborhood": "Sarıyer",
     "address": "Rumeli Hisarı Mah. Yahya Kemal Cad. No:20, Rumeli Hisarı, Sarıyer, İstanbul",
@@ -1749,7 +1749,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "68",
+    "id": "98",
     "name": "Çengelköy Tarihi Çınaraltı",
     "neighborhood": "Üsküdar",
     "address": "Çengelköy Mah. Çınaraltı Meydanı, Çengelköy, Üsküdar, İstanbul",
@@ -1767,7 +1767,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "69",
+    "id": "99",
     "name": "Emirgan Sütiş",
     "neighborhood": "Sarıyer",
     "address": "Emirgan Mah. Sakıp Sabancı Cad. No:46, Emirgan, Sarıyer, İstanbul",
@@ -1785,7 +1785,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "70",
+    "id": "100",
     "name": "Küff Yeldeğirmeni",
     "neighborhood": "Kadıköy",
     "address": "Rasimpaşa Mah. Karakolhane Cad. No:54, Yeldeğirmeni, Kadıköy, İstanbul",
@@ -1803,7 +1803,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "71",
+    "id": "101",
     "name": "Çakmak Kahvaltı Salonu",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Süleyman Seba Cad. No:20/B, Beşiktaş, İstanbul",
@@ -1821,7 +1821,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "72",
+    "id": "102",
     "name": "Forno Balat",
     "neighborhood": "Fatih",
     "address": "Balat Mah. Fener Cad. No:1/A, Balat, Fatih, İstanbul",
@@ -1839,7 +1839,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "73",
+    "id": "103",
     "name": "Hadika Kahvaltı Evi",
     "neighborhood": "Şişli",
     "address": "Halide Edip Adıvar Mah. Şair Arif Cad. No:52/A, Şişli, İstanbul",
@@ -1857,7 +1857,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "74",
+    "id": "104",
     "name": "Kırıntı",
     "neighborhood": "Kadıköy",
     "address": "Caddebostan Mah. Bağdat Cad. No:290, Caddebostan, Kadıköy, İstanbul",
@@ -1875,7 +1875,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "75",
+    "id": "105",
     "name": "Journey",
     "neighborhood": "Beyoğlu",
     "address": "Kuloğlu Mah. Akarsu Yokuşu Sok. No:21/A, Cihangir, Beyoğlu, İstanbul",
@@ -1893,7 +1893,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "76",
+    "id": "106",
     "name": "Bop Breakfast Of Pan",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Moda Cad. No:116/A, Moda, Kadıköy, İstanbul",
@@ -1911,7 +1911,7 @@
     "categories": "Kahvaltı & Brunch"
   },
   {
-    "id": "77",
+    "id": "107",
     "name": "Petra Roasting Co.",
     "neighborhood": "Beşiktaş",
     "address": "Gayrettepe Mah. Hoşsohbet Sok. No:1, Gayrettepe, Beşiktaş, İstanbul",
@@ -1929,7 +1929,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "78",
+    "id": "108",
     "name": "Coffee Sapiens",
     "neighborhood": "Beyoğlu",
     "address": "Kemankeş Karamustafa Paşa Mah. Kılıç Ali Paşa Camii Sok. No:2/A, Karaköy, İstanbul",
@@ -1947,7 +1947,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "79",
+    "id": "109",
     "name": "Boter",
     "neighborhood": "Kadıköy",
     "address": "Fenerbahçe Mah. Rüştiye Sok. No:30/A, Kalamış, Kadıköy, İstanbul",
@@ -1965,7 +1965,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "80",
+    "id": "110",
     "name": "Story Coffee Roasters",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Dalga Sok. No:22, Moda, Kadıköy, İstanbul",
@@ -1983,7 +1983,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "81",
+    "id": "111",
     "name": "Fern Cafe & Eatery",
     "neighborhood": "Kadıköy",
     "address": "Fenerbahçe Mah. Lalezar Sok. No:14, Fenerbahçe, Kadıköy, İstanbul",
@@ -2001,7 +2001,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "82",
+    "id": "112",
     "name": "Montag Coffee",
     "neighborhood": "Şişli",
     "address": "Cumhuriyet Mah. Ergenekon Cad. No:50/A, Bomonti, Şişli, İstanbul",
@@ -2019,7 +2019,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "83",
+    "id": "113",
     "name": "Drip Coffee",
     "neighborhood": "Beyoğlu",
     "address": "Kuloğlu Mah. İstiklal Cad. No:173, Beyoğlu, İstanbul",
@@ -2037,7 +2037,7 @@
     "categories": "Kahve & Tatlı"
   },
   {
-    "id": "84",
+    "id": "114",
     "name": "Grandpa Coffee & Eatery",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Bahariye Cad. No:63, Moda, Kadıköy, İstanbul",
@@ -2054,7 +2054,7 @@
     "sources": ["TimeOut", "Yerel İncelemeler"],
     "categories": "Kahve & Tatlı"
   },{
-    "id": 85,
+    "id": "115",
     "name": "MOC İstanbul (Ministry of Coffee)",
     "neighborhood": "Şişli",
     "address": "Teşvikiye Mah. Şakayık Sok. No:49/A, Nişantaşı, Şişli, İstanbul",
@@ -2072,7 +2072,7 @@
     "categories": ["Kahve & Tatlı"]
   },
   {
-    "id": 86,
+    "id": "116",
     "name": "Alt Kat Coffee",
     "neighborhood": "Kadıköy",
     "address": "Osmanağa Mah. Kırtasiyeci Sok. No:46/A, Yeldeğirmeni, Kadıköy, İstanbul",
@@ -2090,7 +2090,7 @@
     "categories": ["Kahve & Tatlı"]
   },
   {
-    "id": 87,
+    "id": "117",
     "name": "Homemade Aromas",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Şair Nedim Cad. No:15/A, Beşiktaş, İstanbul",
@@ -2108,7 +2108,7 @@
     "categories": ["Kahve & Tatlı"]
   },
   {
-    "id": 88,
+    "id": "118",
     "name": "La Pierre Patisserie",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Süleyman Seba Cad. No:50/A, Akaretler, Beşiktaş, İstanbul",
@@ -2126,7 +2126,7 @@
     "categories": ["Kahve & Tatlı"]
   },
   {
-    "id": 89,
+    "id": "119",
     "name": "Coffee Department",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Kadife Sok. No:19, Moda, Kadıköy, İstanbul",
@@ -2144,7 +2144,7 @@
     "categories": ["Kahve & Tatlı"]
   },
   {
-    "id": 90,
+    "id": "120",
     "name": "Dods Coffee",
     "neighborhood": "Şişli",
     "address": "Teşvikiye Mah. Hüsrev Gerede Cad. No:131, Teşvikiye, Şişli, İstanbul",
@@ -2162,7 +2162,7 @@
     "categories": ["Kahve & Tatlı"]
   },
   {
-    "id": 91,
+    "id": "121",
     "name": "Noir Pit",
     "neighborhood": "Kadıköy",
     "address": "Osmanağa Mah. Serasker Cad. No:52, Moda, Kadıköy, İstanbul",
@@ -2181,7 +2181,7 @@
   },
 
     {
-    "id": "92",
+    "id": "123",
     "name": "Karaköy Güllüoğlu",
     "neighborhood": "Beyoğlu",
     "address": "Kemankeş Karamustafa Paşa Mah. Rıhtım Cad. No:1/A, Karaköy, Beyoğlu, İstanbul",
@@ -2199,7 +2199,7 @@
     "categories": "Tatlı & Pastane"
   },
   {
-    "id": "93",
+    "id": "124",
     "name": "Baylan Pastanesi",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Muvakkithane Cad. No:9/A, Kadıköy, İstanbul",
@@ -2217,7 +2217,7 @@
     "categories": "Tatlı & Pastane"
   },
   {
-    "id": "94",
+    "id": "125",
     "name": "Tarihi Savoy Pastanesi",
     "neighborhood": "Beyoğlu",
     "address": "Kuloğlu Mah. Turnacıbaşı Cad. No:12/A, Cihangir, Beyoğlu, İstanbul",
@@ -2235,7 +2235,7 @@
     "categories": "Tatlı & Pastane"
   },
   {
-    "id": "95",
+    "id": "126",
     "name": "Bitez Dondurma",
     "neighborhood": "Beşiktaş",
     "address": "Sinanpaşa Mah. Beşiktaş Cad. No:20, Beşiktaş, İstanbul",
@@ -2253,7 +2253,7 @@
     "categories": "Tatlı & Pastane"
   },
   {
-    "id": "96",
+    "id": "127",
     "name": "J'Adore Chocolatier",
     "neighborhood": "Beyoğlu",
     "address": "Şahkulu Mah. Serdar-ı Ekrem Cad. No:11/A, Galata, Beyoğlu, İstanbul",
@@ -2271,7 +2271,7 @@
     "categories": "Tatlı & Pastane"
   },
   {
-    "id": "97",
+    "id": "128",
     "name": "Loved Gelato",
     "neighborhood": "Kadıköy",
     "address": "Caddebostan Mah. Bağdat Cad. No:291/C, Caddebostan, Kadıköy, İstanbul",
@@ -2289,7 +2289,7 @@
     "categories": "Tatlı & Pastane"
   },
   {
-    "id": 98,
+    "id": "129",
     "name": "Miss Delicious Bakery",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Moda Cad. No:66, Moda, Kadıköy, İstanbul",
@@ -2307,7 +2307,7 @@
     "categories": ["Tatlı & Pastane"]
   },
   {
-    "id": 99,
+    "id": "130",
     "name": "Missvanilaa Profiterol",
     "neighborhood": "Bakırköy",
     "address": "Kartaltepe Mah. Koşuyolu Cad. No:22, Bakırköy, İstanbul",
@@ -2325,7 +2325,7 @@
     "categories": ["Tatlı & Pastane"]
   },
   {
-    "id": 100,
+    "id": "131",
     "name": "Helvacı Ali 1900",
     "neighborhood": "Kağıthane",
     "address": "Sultan Selim Mah. Sultan Selim Cad. No:84/B, Kağıthane, İstanbul",
@@ -2343,7 +2343,7 @@
     "categories": ["Tatlı & Pastane"]
   },
   {
-    "id": 101,
+    "id": "132",
     "name": "Viyana Kahvesi",
     "neighborhood": "Beyoğlu",
     "address": "Kemankeş Karamustafa Paşa Mah. Necatibey Cad. No:116, Karaköy, Beyoğlu, İstanbul",
@@ -2361,7 +2361,7 @@
     "categories": ["Tatlı & Pastane"]
   },
   {
-    "id": 102,
+    "id": "133",
     "name": "Pelit Pastaneleri",
     "neighborhood": "Kadıköy",
     "address": "Bağdat Cad. No:236/A, Erenköy, Kadıköy, İstanbul",
@@ -2379,7 +2379,7 @@
     "categories": ["Tatlı & Pastane"]
   },
   {
-    "id": 103,
+    "id": "134",
     "name": "Mangerie",
     "neighborhood": "Beşiktaş",
     "address": "Bebek Mah. Cevdet Paşa Cad. No:69/1, Bebek, Beşiktaş, İstanbul",
@@ -2397,7 +2397,7 @@
     "categories": ["Tatlı & Pastane"]
   },
   {
-    "id": 107,
+    "id": "135",
     "name": "İnari Omakase",
     "neighborhood": "Beşiktaş",
     "address": "Kuruçeşme Mah. Muallim Naci Cad. No:114, Kuruçeşme, Beşiktaş, İstanbul",
@@ -2415,7 +2415,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 108,
+    "id": "136",
     "name": "Pera Thai",
     "neighborhood": "Beyoğlu",
     "address": "Asmalımescit Mah. Meşrutiyet Cad. No:74/A, Tepebaşı, Beyoğlu, İstanbul",
@@ -2433,7 +2433,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 109,
+    "id": "137",
     "name": "Ioki",
     "neighborhood": "Sarıyer",
     "address": "İstinye Mah. İstinye Cad. No:44, İstinye, Sarıyer, İstanbul",
@@ -2451,7 +2451,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   }, 
   {
-    "id": 110,
+    "id": "138",
     "name": "Çok Çok Thai",
     "neighborhood": "Beyoğlu",
     "address": "Asmalımescit Mah. Meşrutiyet Cad. No:74, Tepebaşı, Beyoğlu, İstanbul",
@@ -2469,7 +2469,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 111,
+    "id": "139",
     "name": "Hakkasan Istanbul",
     "neighborhood": "Beşiktaş",
     "address": "Kuruçeşme Mah. Muallim Naci Cad. No:62, Kuruçeşme, Beşiktaş, İstanbul",
@@ -2487,7 +2487,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 112,
+    "id": "140",
     "name": "Sushico",
     "neighborhood": "Kadıköy",
     "address": "Bağdat Cad. No:386, Caddebostan, Kadıköy, İstanbul",
@@ -2505,7 +2505,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 113,
+    "id": "141",
     "name": "Nobu İstanbul",
     "neighborhood": "Beşiktaş",
     "address": "Vişnezade Mah. Süleyman Seba Cad. No:46, Akaretler, Beşiktaş, İstanbul",
@@ -2523,7 +2523,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 114,
+    "id": "142",
     "name": "China Stix",
     "neighborhood": "Şişli",
     "address": "Harbiye Mah. Cumhuriyet Cad. No:50, Şişli, İstanbul",
@@ -2541,7 +2541,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 115,
+    "id": "143",
     "name": "Yada Sushi",
     "neighborhood": "Kadıköy",
     "address": "Caferağa Mah. Moda Cad. No:118/A, Moda, Kadıköy, İstanbul",
@@ -2559,7 +2559,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 116,
+    "id": "144",
     "name": "Asian Vegan Kitchen",
     "neighborhood": "Beyoğlu",
     "address": "Kuloğlu Mah. Çukurcuma Cad. No:63/A, Cihangir, Beyoğlu, İstanbul",
@@ -2577,7 +2577,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 117,
+    "id": "145",
     "name": "Itsumi",
     "neighborhood": "Şişli",
     "address": "Levent Mah. Yapı Kredi Plaza Binası No:14, Levent, Şişli, İstanbul",
@@ -2595,7 +2595,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 118,
+    "id": "146",
     "name": "China Lotus",
     "neighborhood": "Ataşehir",
     "address": "Küçükbakkalköy Mah. Işıklar Cad. No:31/C, Ataşehir, İstanbul",
@@ -2613,7 +2613,7 @@
     "categories": ["Uzak Doğu Mutfağı"]
   },
   {
-    "id": 119,
+    "id": "147",
     "name": "Sushiru",
     "neighborhood": "Beşiktaş",
     "address": "Levent Mah. Büyükdere Cad. No:190, Levent, Beşiktaş, İstanbul",
@@ -2629,580 +2629,4 @@
     "coordinates": { "latitude": 41.077, "longitude": 28.995 },
     "sources": ["Yerel İncelemeler"],
     "categories": ["Uzak Doğu Mutfağı"]
-  },
-  {
-    "id": 120,
-    "name": "Udonya",
-    "neighborhood": "Beyoğlu",
-    "address": "Tomtom Mah. Yeni Çarşı Cad. No:44, Beyoğlu, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Japon", "Ramen", "Udon"],
-    "price_level": 2,
-    "rating": 4.5,
-    "opening_hours": "12:00 - 22:00",
-    "description": "İstanbul'da otantik Japon eriştesi (Udon ve Ramen) konusunda iddialı, samimi bir mekan.",
-    "tags": ["Japon", "ramen", "udon", "otantik"],
-    "images": ["udonya1.jpg"],
-    "coordinates": { "latitude": 41.032, "longitude": 28.979 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Uzak Doğu Mutfağı"]
-  },
-  {
-    "id": 121,
-    "name": "Wagamama",
-    "neighborhood": "Sarıyer",
-    "address": "İstinyePark AVM, Pınar Mah. Katar Cad. No:11, İstinye, Sarıyer, İstanbul",
-    "phone": "+90 212 345 53 00",
-    "website": "https://www.wagamama.com.tr/",
-    "cuisine": ["Japon", "Asya (Zincir)"],
-    "price_level": 3,
-    "rating": 4.3,
-    "opening_hours": "12:00 - 22:30",
-    "description": "İngiliz kökenli, Asya'dan ilham alan noodle, ramen ve curry yemekleriyle bilinen uluslararası bir zincir.",
-    "tags": ["Asya", "ramen", "noodle", "zincir"],
-    "images": ["wagamama1.jpg"],
-    "coordinates": { "latitude": 41.109, "longitude": 29.034 },
-    "sources": ["Wagamama Website"],
-    "categories": ["Uzak Doğu Mutfağı"]
-  },
-  {
-    "id": 122,
-    "name": "Uskumru Restaurant",
-    "neighborhood": "Beykoz",
-    "address": "Anadolu Hisarı Mah. Körfez Cad. No:55, Anadolu Hisarı, Beykoz, İstanbul",
-    "phone": "+90 216 467 55 25",
-    "website": "https://www.uskumru.com.tr/",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 4,
-    "rating": 4.5,
-    "opening_hours": "18:00 - 00:00",
-    "description": "Boğaz manzarasına sahip, özellikle meze ve taze balık çeşitleriyle bilinen şık bir deniz ürünleri restoranı. Rumeli Hisarı'ndan tekne servisi de bulunur.",
-    "tags": ["Boğaz manzarası", "taze balık", "tekne", "şık"],
-    "images": ["uskumru1.jpg"],
-    "coordinates": { "latitude": 41.082, "longitude": 29.053 },
-    "sources": ["PlumeMag", "Uskumru Website"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 123,
-    "name": "Balıkçı Sabahattin",
-    "neighborhood": "Fatih",
-    "address": "Cankurtaran Mah. Seyit Hasan Kuyu Sok. No:1, Sultanahmet, Fatih, İstanbul",
-    "phone": "+90 212 458 18 24",
-    "website": "https://www.balikcisabahattin.com/",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.6,
-    "opening_hours": "12:00 - 23:00",
-    "description": "Tarihi Yarımada'da, samimi ve otantik atmosferiyle taze balık ve Girit mezeleri sunan ünlü balıkçı.",
-    "tags": ["taze balık", "Girit mezeleri", "tarihi yarımada", "otantik"],
-    "images": ["balikcisabahattin1.jpg"],
-    "coordinates": { "latitude": 41.006, "longitude": 28.980 },
-    "sources": ["PlumeMag", "Balıkçı Sabahattin Website"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 124,
-    "name": "İsmet Baba",
-    "neighborhood": "Üsküdar",
-    "address": "Kuzguncuk Mah. Kuzguncuk Çarşı Cad. No:1, Kuzguncuk, Üsküdar, İstanbul",
-    "phone": "+90 216 553 07 46",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Klasik Balıkçı"],
-    "price_level": 3,
-    "rating": 4.4,
-    "opening_hours": "12:00 - 23:00",
-    "description": "Kuzguncuk İskelesi'nin hemen yanında yer alan, manzarası, klasik mezeleri ve taze balıklarıyla ikonikleşmiş salaş balıkçı.",
-    "tags": ["salaş balıkçı", "manzaralı", "ikonik", "Kuzguncuk"],
-    "images": ["ismetbaba1.jpg"],
-    "coordinates": { "latitude": 41.026, "longitude": 29.023 },
-    "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 125,
-    "name": "Adem Baba Balık Lokantası",
-    "neighborhood": "Beşiktaş",
-    "address": "Arnavutköy Mah. Satış Meydanı Sok. No:2, Arnavutköy, Beşiktaş, İstanbul",
-    "phone": "+90 212 263 29 33",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.5,
-    "opening_hours": "12:00 - 23:00",
-    "description": "Arnavutköy'de, denize sıfır konumu ve taze, lezzetli balık ve deniz ürünleriyle bilinen popüler bir balık lokantası.",
-    "tags": ["denize sıfır", "taze balık", "Arnavutköy", "popüler"],
-    "images": ["adembaba1.jpg"],
-    "coordinates": { "latitude": 41.059, "longitude": 29.043 },
-    "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 126,
-    "name": "Tunç Balık",
-    "neighborhood": "Kadıköy",
-    "address": "Caddebostan Mah. Operatör Cemil Topuzlu Cad. No:135, Caddebostan, Kadıköy, İstanbul",
-    "phone": "+90 216 385 45 45",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.3,
-    "opening_hours": "12:00 - 23:00",
-    "description": "Caddebostan'da, kaliteli hizmeti ve zengin balık/meze çeşitleriyle tanınan, şık bir balık restoranı.",
-    "tags": ["taze balık", "şık", "Caddebostan", "meze"],
-    "images": ["tuncbalik1.jpg"],
-    "coordinates": { "latitude": 40.963, "longitude": 29.083 },
-    "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 127,
-    "name": "Del Mare",
-    "neighborhood": "Üsküdar",
-    "address": "Çengelköy Mah. Kuleli Cad. No:14, Çengelköy, Üsküdar, İstanbul",
-    "phone": "+90 216 422 23 23",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "İtalyan"],
-    "price_level": 4,
-    "rating": 4.4,
-    "opening_hours": "18:00 - 00:00 (Pazartesi kapalı)",
-    "description": "Boğaz manzarasına sahip, deniz ürünlerini İtalyan mutfağı dokunuşlarıyla sunan lüks bir restoran.",
-    "tags": ["Boğaz manzarası", "deniz ürünleri", "İtalyan füzyon", "lüks"],
-    "images": ["delmare1.jpg"],
-    "coordinates": { "latitude": 41.056, "longitude": 29.049 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 128,
-    "name": "Sandal Balık",
-    "neighborhood": "Sarıyer",
-    "address": "Yeniköy Mah. Köybaşı Cad. No:178, Yeniköy, Sarıyer, İstanbul",
-    "phone": "+90 212 223 80 80",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 4,
-    "rating": 4.3,
-    "opening_hours": "12:00 - 00:00",
-    "description": "Yeniköy'de, Boğaz kenarında, taze mevsimlik balıklar ve zengin meze menüsüyle popüler olan klasik bir balıkçı.",
-    "tags": ["taze balık", "Boğaz manzarası", "Yeniköy", "klasik"],
-    "images": ["sandalbalik1.jpg"],
-    "coordinates": { "latitude": 41.100, "longitude": 29.055 },
-    "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 129,
-    "name": "Cundalı Ayvalık Balıkçısı",
-    "neighborhood": "Kadıköy",
-    "address": "Fenerbahçe Mah. Münir Nurettin Selçuk Cad. No:62, Kalamış, Kadıköy, İstanbul",
-    "phone": "+90 216 345 03 45",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Ege Mutfağı"],
-    "price_level": 3,
-    "rating": 4.5,
-    "opening_hours": "12:00 - 00:00",
-    "description": "Kalamış'ta Ege mezeleri ve Ayvalık usulü taze balıklarıyla bilinen, samimi ve lezzetli bir balık restoranı.",
-    "tags": ["Ege mezeleri", "taze balık", "Kalamış"],
-    "images": ["cundali1.jpg"],
-    "coordinates": { "latitude": 40.975, "longitude": 29.037 },
-    "sources": ["Yemek.com", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 130,
-    "name": "Foça Balık",
-    "neighborhood": "Ataşehir",
-    "address": "Küçükbakkalköy Mah. Ahmet Yesevi Cad. No:10, Ataşehir, İstanbul",
-    "phone": "+90 216 575 08 08",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.4,
-    "opening_hours": "12:00 - 23:00",
-    "description": "Anadolu Yakası'nın iç kesimlerinde yer alan, balık külbastı gibi özel tarifleri ve çocuk oyun alanı olmasıyla dikkat çeken mekan.",
-    "tags": ["taze balık", "aile", "özel tarifler", "Ataşehir"],
-    "images": ["foca1.jpg"],
-    "coordinates": { "latitude": 40.993, "longitude": 29.130 },
-    "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 131,
-    "name": "Balıkçı Anne",
-    "neighborhood": "Sarıyer",
-    "address": "Rumeli Kavağı Mah. İskele Cad. No:7, Rumeli Kavağı, Sarıyer, İstanbul",
-    "phone": "+90 212 242 45 45",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.6,
-    "opening_hours": "12:00 - 22:00",
-    "description": "Sarıyer'in en sevilenlerinden, taze deniz ürünleri, lakerda ve tereyağında ahtapot gibi özel lezzetleriyle ünlü balıkçı.",
-    "tags": ["taze deniz ürünü", "lakerda", "popüler", "Rumeli Kavağı"],
-    "images": ["balikcianne1.jpg"],
-    "coordinates": { "latitude": 41.218, "longitude": 29.070 },
-    "sources": ["Yemek.com", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 132,
-    "name": "Eleos Beyoğlu",
-    "neighborhood": "Beyoğlu",
-    "address": "Tomtom Mah. İstiklal Cad. No:179, Beyoğlu, İstanbul",
-    "phone": "+90 212 244 90 90",
-    "website": "https://www.eleosrestaurant.com/",
-    "cuisine": ["Deniz Ürünleri", "Girit Mutfağı", "Meyhane"],
-    "price_level": 3,
-    "rating": 4.3,
-    "opening_hours": "12:00 - 00:00",
-    "description": "Terasından Boğaz ve Adalar manzarası sunan, Girit ve Ege mutfağı ağırlıklı meze ve deniz ürünleriyle ünlü şık meyhane.",
-    "tags": ["manzaralı", "Girit mutfağı", "meyhane", "Beyoğlu"],
-    "images": ["eleos1.jpg"],
-    "coordinates": { "latitude": 41.034, "longitude": 28.977 },
-    "sources": ["Eleos Website", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 133,
-    "name": "Ege Balık",
-    "neighborhood": "Beşiktaş",
-    "address": "Ortaköy Mah. Muallim Naci Cad. No:63/A, Ortaköy, Beşiktaş, İstanbul",
-    "phone": "+90 212 263 20 20",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Ege Mezeleri"],
-    "price_level": 3,
-    "rating": 4.4,
-    "opening_hours": "12:00 - 00:00",
-    "description": "Ortaköy'de, Boğaz manzarasına karşı Ege ve Girit mezeleriyle taze balık sunan, klasikleşmiş bir mekan.",
-    "tags": ["taze balık", "Ege mezeleri", "Ortaköy"],
-    "images": ["egebalik1.jpg"],
-    "coordinates": { "latitude": 41.047, "longitude": 29.023 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 134,
-    "name": "Fener Kalamış Balıkçısı",
-    "neighborhood": "Kadıköy",
-    "address": "Fenerbahçe Mah. Münir Nurettin Selçuk Cad. No:62, Kalamış, Kadıköy, İstanbul",
-    "phone": "+90 216 550 50 50",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.3,
-    "opening_hours": "12:00 - 00:00",
-    "description": "Kalamış Marina'ya yakın konumda, deniz manzarası eşliğinde taze balık ve kaliteli meze servisi sunan şık bir balıkçı.",
-    "tags": ["deniz manzarası", "taze balık", "şık", "Kalamış"],
-    "images": ["fenerkalamis1.jpg"],
-    "coordinates": { "latitude": 40.975, "longitude": 29.037 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 135,
-    "name": "Balıkçı Ersin",
-    "neighborhood": "Bahçelievler",
-    "address": "Ferit Selimpaşa Cad. Düzgün Sok. No:12/A, Bahçelievler, İstanbul",
-    "phone": "+90 212 555 86 86",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.5,
-    "opening_hours": "12:00 - 23:00",
-    "description": "Klasik mezeler ve özellikle deniz mahsüllü salatasıyla öne çıkan, Bahçelievler'in popüler balık restoranı.",
-    "tags": ["taze balık", "deniz mahsüllü salata"],
-    "images": ["balikciersin1.jpg"],
-    "coordinates": { "latitude": 40.990, "longitude": 28.870 },
-    "sources": ["Yemek.com", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  },
-  {
-    "id": 136,
-    "name": "Sur Balık",
-    "neighborhood": "Beyoğlu",
-    "address": "Kuloğlu Mah. Boğazkesen Cad. No:77, Cihangir, Beyoğlu, İstanbul",
-    "phone": "+90 212 243 00 27",
-    "website": "N/A",
-    "cuisine": ["Deniz Ürünleri", "Balık"],
-    "price_level": 3,
-    "rating": 4.2,
-    "opening_hours": "12:00 - 00:00",
-    "description": "Farklı semtlerde şubeleri bulunan, geniş terasından Boğaz ve Tarihi Yarımada manzarası sunan popüler balık restoranı.",
-    "tags": ["manzaralı", "taze balık", "zincir"],
-    "images": ["surbalik1.jpg"],
-    "coordinates": { "latitude": 41.031, "longitude": 28.980 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
-  }, 
-  {
-    "id": 137,
-    "name": "Healin",
-    "neighborhood": "Şişli",
-    "address": "Teşvikiye Mah. Hüsrev Gerede Cad. No:131, Teşvikiye, Şişli, İstanbul",
-    "phone": "+90 212 232 00 00",
-    "website": "https://www.healin.com.tr/",
-    "cuisine": ["Sağlıklı", "Vegan", "Glutensiz"],
-    "price_level": 3,
-    "rating": 4.5,
-    "opening_hours": "09:00 - 23:00 (Pazar kapalı)",
-    "description": "Tamamen sağlıklı beslenme felsefesiyle çalışan, vegan, vejetaryen ve glutensiz seçeneklerin yanı sıra zengin proteinli yemekler de sunan popüler bir mekan.",
-    "tags": ["sağlıklı", "vegan", "glutensiz", "Teşvikiye"],
-    "images": ["healin1.jpg"],
-    "coordinates": { "latitude": 41.052, "longitude": 28.995 },
-    "sources": ["ENUYGUN", "Healin Website"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 138,
-    "name": "Bi Nevi Deli",
-    "neighborhood": "Beşiktaş",
-    "address": "Etiler Mah. Nispetiye Cad. No:94, Etiler, Beşiktaş, İstanbul",
-    "phone": "+90 212 263 20 20",
-    "website": "https://www.binevideli.com/",
-    "cuisine": ["Vegan", "Bitki Bazlı", "Raw"],
-    "price_level": 3,
-    "rating": 4.6,
-    "opening_hours": "10:00 - 22:00",
-    "description": "Fermente yemiş bazlı peynirler, glutensiz ürünler, pancar burger ve kinoa salatası gibi yaratıcı bitki bazlı lezzetler sunan öncü mekan.",
-    "tags": ["vegan", "bitki bazlı", "raw", "glutensiz", "Etiler"],
-    "images": ["binevideli1.jpg"],
-    "coordinates": { "latitude": 41.077, "longitude": 29.019 },
-    "sources": ["ENUYGUN", "Saatolog"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 139,
-    "name": "Vegan Community Kitchen",
-    "neighborhood": "Beyoğlu",
-    "address": "Şahkulu Mah. Serdar-ı Ekrem Cad. No:11/A, Galata, Beyoğlu, İstanbul",
-    "phone": "+90 212 249 89 28",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Ev Yemekleri"],
-    "price_level": 2,
-    "rating": 4.4,
-    "opening_hours": "12:00 - 21:00 (Pazartesi kapalı)",
-    "description": "İstanbul'un en popüler vegan mekanlarından. Vegan kebap, sebzeli köfte ve glutensiz ekmek gibi doyurucu vegan ev yemekleri sunar.",
-    "tags": ["vegan", "ev yemeği", "popüler", "Galata"],
-    "images": ["vegankitchen1.jpg"],
-    "coordinates": { "latitude": 41.025, "longitude": 28.974 },
-    "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 140,
-    "name": "Vegan Masa",
-    "neighborhood": "Kadıköy",
-    "address": "Caferağa Mah. Moda Cad. No:116/A, Moda, Kadıköy, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Taş Fırın"],
-    "price_level": 2,
-    "rating": 4.5,
-    "opening_hours": "12:00 - 22:00 (Pazartesi kapalı)",
-    "description": "Türkiye'nin ilk taş fırın vegan restoranlarından. Vegan lahmacun ve pide gibi geleneksel lezzetlerin vegan yorumlarını sunar.",
-    "tags": ["vegan", "taş fırın", "lahmacun", "pide", "Moda"],
-    "images": ["veganmasa1.jpg"],
-    "coordinates": { "latitude": 40.982, "longitude": 29.021 },
-    "sources": ["Saatolog", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 141,
-    "name": "Telezzüz",
-    "neighborhood": "Kadıköy",
-    "address": "Caferağa Mah. Sarraf Ali Sok. No:6, Moda, Kadıköy, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Fine Dining (İlk)"],
-    "price_level": 4,
-    "rating": 4.7,
-    "opening_hours": "18:00 - 23:00 (Pazartesi kapalı)",
-    "description": "Türkiye'nin ilk vegan fine dining restoranı olarak bilinen, yaratıcı ve şık sunumlu bitki bazlı menüsüyle öne çıkar.",
-    "tags": ["vegan", "fine dining", "bitki bazlı", "yaratıcı", "Moda"],
-    "images": ["telezzuz1.jpg"],
-    "coordinates": { "latitude": 40.985, "longitude": 29.023 },
-    "sources": ["Saatolog", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 142,
-    "name": "Turp",
-    "neighborhood": "Kadıköy",
-    "address": "Caferağa Mah. Dr. Esat Işık Cad. No:44, Moda, Kadıköy, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Geleneksel Yorum"],
-    "price_level": 2,
-    "rating": 4.4,
-    "opening_hours": "12:00 - 22:00 (Salı kapalı)",
-    "description": "Vegan yemeklerin kısıtlı olmadığını kanıtlayan, yaratıcı sosları ve vegan içli köfte gibi lezzetleriyle popüler olan kafe.",
-    "tags": ["vegan", "yaratıcı", "içli köfte", "Moda"],
-    "images": ["turp1.jpg"],
-    "coordinates": { "latitude": 40.985, "longitude": 29.023 },
-    "sources": ["Saatolog", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 143,
-    "name": "KafeNAsanat",
-    "neighborhood": "Beşiktaş",
-    "address": "Sinanpaşa Mah. Beşiktaş Cad. No:20, Beşiktaş, İstanbul",
-    "phone": "+90 212 261 03 33",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Kahvaltı", "Cafe"],
-    "price_level": 2,
-    "rating": 4.3,
-    "opening_hours": "10:00 - 22:00",
-    "description": "Vegan ve vejetaryen seçeneklerin ağırlıkta olduğu, özellikle vegan kahvaltısıyla popüler olan, sanatsal bir atmosfere sahip kafe.",
-    "tags": ["vegan", "vejetaryen", "kahvaltı", "Beşiktaş"],
-    "images": ["kafenas1.jpg"],
-    "coordinates": { "latitude": 41.042, "longitude": 29.006 },
-    "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 144,
-    "name": "Vegan Dükkan Lokanta",
-    "neighborhood": "Beyoğlu",
-    "address": "Kuloğlu Mah. Turnacıbaşı Cad. No:12/A, Cihangir, Beyoğlu, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Lokanta"],
-    "price_level": 2,
-    "rating": 4.3,
-    "opening_hours": "12:00 - 21:00 (Pazartesi kapalı)",
-    "description": "Günün her saatine uygun menü seçenekleri sunan, ev yemeği tarzında vegan lezzetler bulabileceğiniz bir lokanta.",
-    "tags": ["vegan", "ev yemeği", "lokanta"],
-    "images": ["vegandukkan1.jpg"],
-    "coordinates": { "latitude": 41.031, "longitude": 28.980 },
-    "sources": ["Saatolog", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 145,
-    "name": "Wegain",
-    "neighborhood": "Beyoğlu",
-    "address": "Asmalımescit Mah. Meşrutiyet Cad. No:118/A, Tepebaşı, Beyoğlu, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Sağlıklı"],
-    "price_level": 2,
-    "rating": 4.2,
-    "opening_hours": "11:00 - 21:00 (Pazar kapalı)",
-    "description": "Taze ve sağlıklı vegan seçenekler sunan, hızlı ve pratik yemekleriyle özellikle çalışanların tercih ettiği bir mekan.",
-    "tags": ["vegan", "sağlıklı", "pratik", "hızlı servis"],
-    "images": ["wegain1.jpg"],
-    "coordinates": { "latitude": 41.031, "longitude": 28.977 },
-    "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 146,
-    "name": "Cico Cebali",
-    "neighborhood": "Fatih",
-    "address": "Cibali Mah. Kadir Has Cad. No:13, Cibali, Fatih, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "İtalyan (Pizza)"],
-    "price_level": 2,
-    "rating": 4.4,
-    "opening_hours": "12:00 - 22:00 (Pazartesi kapalı)",
-    "description": "Cibali'de yer alan, özellikle vegan pizzaları ve makarna çeşitleriyle tanınan, samimi bir vegan İtalyan restoranı.",
-    "tags": ["vegan", "İtalyan", "pizza", "Cibali"],
-    "images": ["cicocebali1.jpg"],
-    "coordinates": { "latitude": 41.030, "longitude": 28.955 },
-    "sources": ["Saatolog", "Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 147,
-    "name": "Pura Vida Vegan",
-    "neighborhood": "Kadıköy",
-    "address": "Caferağa Mah. Sakız Sok. No:5, Moda, Kadıköy, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Vegan", "Raw", "Tatlı"],
-    "price_level": 3,
-    "rating": 4.5,
-    "opening_hours": "11:00 - 20:00 (Pazartesi kapalı)",
-    "description": "%100 bitki bazlı, özellikle raw (çiğ) tatlıları, smoothie bowl'ları ve sağlıklı menüsüyle öne çıkan butik kafe.",
-    "tags": ["vegan", "raw", "tatlı", "sağlıklı", "Moda"],
-    "images": ["puravida1.jpg"],
-    "coordinates": { "latitude": 40.985, "longitude": 29.023 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 148,
-    "name": "Naan Bakes",
-    "neighborhood": "Beşiktaş",
-    "address": "Vişnezade Mah. Şair Nedim Cad. No:15/A, Beşiktaş, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Fırın", "Ekmek", "Vegan"],
-    "price_level": 3,
-    "rating": 4.6,
-    "opening_hours": "09:00 - 18:00 (Pazar kapalı)",
-    "description": "Ekşi mayalı ekmekler, doğal ve taze fırın ürünleriyle bilinen, vegan seçeneklerin de bulunduğu popüler bir fırın.",
-    "tags": ["ekşi maya", "fırın", "vegan seçenekler", "Beşiktaş"],
-    "images": ["naanbakes1.jpg"],
-    "coordinates": { "latitude": 41.045, "longitude": 29.006 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 149,
-    "name": "Living Juice",
-    "neighborhood": "Şişli",
-    "address": "Teşvikiye Mah. Hüsrev Gerede Cad. No:131, Teşvikiye, Şişli, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Smoothie", "Sağlıklı", "Detox"],
-    "price_level": 3,
-    "rating": 4.4,
-    "opening_hours": "09:00 - 20:00",
-    "description": "Soğuk sıkım meyve/sebze suları, smoothie'ler, sağlıklı atıştırmalıklar ve detox programlarıyla bilinen popüler zincir.",
-    "tags": ["sağlıklı", "soğuk sıkım", "smoothie", "detox"],
-    "images": ["livingjuice1.jpg"],
-    "coordinates": { "latitude": 41.052, "longitude": 28.995 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 150,
-    "name": "Tostra",
-    "neighborhood": "Kadıköy",
-    "address": "Caferağa Mah. Sakız Sok. No:3, Moda, Kadıköy, İstanbul",
-    "phone": "N/A",
-    "website": "N/A",
-    "cuisine": ["Sağlıklı Sandviç", "Vegan"],
-    "price_level": 2,
-    "rating": 4.3,
-    "opening_hours": "11:00 - 21:00",
-    "description": "Yaratıcı ve doyurucu tost/sandviç çeşitleri sunan, vegan ve sağlıklı seçeneklerin de bolca bulunduğu modern bir büfe.",
-    "tags": ["sandviç", "tost", "sağlıklı", "vegan seçenekler"],
-    "images": ["tostra1.jpg"],
-    "coordinates": { "latitude": 40.985, "longitude": 29.023 },
-    "sources": ["Yerel İncelemeler"],
-    "categories": ["Vegan & Sağlıklı"]
-  },
-  {
-    "id": 151,
-    "name": "Datça Murat Çiftliği",
-    "neighborhood": "Beşiktaş",
-    "address": "Akatlar Mah. Zeytinoğlu Cad. No:58, Akatlar, Beşiktaş, İstanbul",
-    "phone": "+90 212 351 00 00",
-    "website": "https://www.datcamuratciftligi.com/",
-    "cuisine": ["Organik", "Sağlıklı", "Kahvaltı"],
-    "price_level": 3,
-    "rating": 4.4,
-    "opening_hours": "08:00 - 20:00",
-    "description": "Organik ve doğal ürünlerle hazırlanan kahvaltılıklar ve sağlıklı ürünlerin satıldığı/sunulduğu bir mekan.",
-    "tags": ["organik", "doğal ürün", "sağlıklı kahvaltı"],
-    "images": ["datcamurat1.jpg"],
-    "coordinates": { "latitude": 41.077, "longitude": 29.019 },
-    "sources": ["Datça Murat Çiftliği Website"],
-    "categories": ["Vegan & Sağlıklı"]
   }]
