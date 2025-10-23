@@ -664,7 +664,7 @@
     "images": ["aheste1.jpg"],
     "coordinates": { "latitude": 41.033, "longitude": 28.974 },
     "sources": ["Aheste Website", "Gault&Millau"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "38",
@@ -682,7 +682,7 @@
     "images": ["zennup1.jpg"],
     "coordinates": { "latitude": 41.080, "longitude": 29.022 },
     "sources": ["Zennup Website", "Gault&Millau"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "39",
@@ -700,7 +700,7 @@
     "images": ["tershane1.jpg"],
     "coordinates": { "latitude": 41.022, "longitude": 28.972 },
     "sources": ["Tershane Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "40",
@@ -718,7 +718,7 @@
     "images": ["alaf1.jpg"],
     "coordinates": { "latitude": 41.053, "longitude": 29.024 },
     "sources": ["Alaf Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "41",
@@ -736,7 +736,7 @@
     "images": ["tugra1.jpg"],
     "coordinates": { "latitude": 41.041, "longitude": 29.008 },
     "sources": ["Kempinski Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    
   },
   {
     "id": "42",
@@ -754,7 +754,7 @@
     "images": ["neolokal1.jpg"],
     "coordinates": { "latitude": 41.021, "longitude": 28.974 },
     "sources": ["Neolokal Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "43",
@@ -772,7 +772,7 @@
     "images": ["giritli1.jpg"],
     "coordinates": { "latitude": 41.006, "longitude": 28.978 },
     "sources": ["Giritli Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "44",
@@ -790,7 +790,7 @@
     "images": ["spago1.jpg"],
     "coordinates": { "latitude": 41.047, "longitude": 28.993 },
     "sources": ["St. Regis Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "45",
@@ -808,7 +808,7 @@
     "images": ["zuma1.jpg"],
     "coordinates": { "latitude": 41.047, "longitude": 29.027 },
     "sources": ["Zuma Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    "categories": ["Türk Mutfağı"]
   },
   {
     "id": "46",
@@ -826,7 +826,7 @@
     "images": ["sarnic1.jpg"],
     "coordinates": { "latitude": 41.009, "longitude": 28.981 },
     "sources": ["Sarnıç Website", "Michelin Guide"],
-    "categories": "Türk Mutfağı"
+    
   },
   {
     "id": "47",
@@ -1115,7 +1115,7 @@
     "images": ["zula1.jpg"],
     "coordinates": { "latitude": 41.047, "longitude": 28.987 },
     "sources": ["OGGUSTO", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "63",
@@ -1133,7 +1133,7 @@
     "images": ["akali1.jpg"],
     "coordinates": { "latitude": 41.043, "longitude": 29.006 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "64",
@@ -1151,7 +1151,7 @@
     "images": ["biberburger1.jpg"],
     "coordinates": { "latitude": 41.045, "longitude": 29.006 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "65",
@@ -1169,7 +1169,7 @@
     "images": ["basta1.jpg"],
     "coordinates": { "latitude": 40.985, "longitude": 29.023 },
     "sources": ["OGGUSTO", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "66",
@@ -1187,7 +1187,7 @@
     "images": ["crossfingers1.jpg"],
     "coordinates": { "latitude": 41.056, "longitude": 28.995 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "67",
@@ -1205,7 +1205,7 @@
     "images": ["whiteburger1.jpg"],
     "coordinates": { "latitude": 40.978, "longitude": 29.053 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "68",
@@ -1223,7 +1223,7 @@
     "images": ["bankoburger1.jpg"],
     "coordinates": { "latitude": 40.963, "longitude": 29.083 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "69",
@@ -1241,7 +1241,7 @@
     "images": ["snob1.jpg"],
     "coordinates": { "latitude": 40.986, "longitude": 29.023 },
     "sources": ["OGGUSTO", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "70",
@@ -1259,7 +1259,7 @@
     "images": ["upperdeck1.jpg"],
     "coordinates": { "latitude": 41.045, "longitude": 29.006 },
     "sources": ["OGGUSTO", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "71",
@@ -1277,7 +1277,7 @@
     "images": ["pideban1.jpg"],
     "coordinates": { "latitude": 41.028, "longitude": 28.980 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "72",
@@ -1295,7 +1295,7 @@
     "images": ["kokoreccierdinç1.jpg"],
     "coordinates": { "latitude": 40.989, "longitude": 29.027 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "73",
@@ -1313,7 +1313,7 @@
     "images": ["akınbalık1.jpg"],
     "coordinates": { "latitude": 41.023, "longitude": 28.972 },
     "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "74",
@@ -1331,7 +1331,7 @@
     "images": ["gorali1.jpg"],
     "coordinates": { "latitude": 41.052, "longitude": 28.995 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "75",
@@ -1349,7 +1349,7 @@
     "images": ["rebel1.jpg"],
     "coordinates": { "latitude": 40.993, "longitude": 29.130 },
     "sources": ["OGGUSTO", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
   {
     "id": "76",
@@ -1367,7 +1367,7 @@
     "images": ["mrhamza1.jpg"],
     "coordinates": { "latitude": 41.050, "longitude": 28.990 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Fast Food"
+    "categories": ["Fast Food"]
   },
     
   {
@@ -1386,7 +1386,7 @@
     "images": ["damario1.jpg"],
     "coordinates": { "latitude": 41.077, "longitude": 29.019 },
     "sources": ["Da Mario Website", "GZT"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "78",
@@ -1404,7 +1404,7 @@
     "images": ["anticalocanda1.jpg"],
     "coordinates": { "latitude": 41.059, "longitude": 29.043 },
     "sources": ["Antica Locanda Website", "theMagger"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "79",
@@ -1422,7 +1422,7 @@
     "images": ["lascarpetta1.jpg"],
     "coordinates": { "latitude": 41.077, "longitude": 29.019 },
     "sources": ["La Scarpetta Website", "GZT"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "80",
@@ -1440,7 +1440,7 @@
     "images": ["ilsud1.jpg"],
     "coordinates": { "latitude": 40.982, "longitude": 29.021 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "81",
@@ -1458,7 +1458,7 @@
     "images": ["ilcortile1.jpg"],
     "coordinates": { "latitude": 41.025, "longitude": 28.974 },
     "sources": ["IL Cortile Website", "theMagger"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "82",
@@ -1476,7 +1476,7 @@
     "images": ["mezzaluna1.jpg"],
     "coordinates": { "latitude": 41.109, "longitude": 29.034 },
     "sources": ["GZT", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "83",
@@ -1494,7 +1494,7 @@
     "images": ["eataly1.jpg"],
     "coordinates": { "latitude": 41.066, "longitude": 29.006 },
     "sources": ["Eataly Website"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "84",
@@ -1512,7 +1512,7 @@
     "images": ["papsitalian1.jpg"],
     "coordinates": { "latitude": 41.080, "longitude": 29.018 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "85",
@@ -1530,7 +1530,7 @@
     "images": ["rita1.jpg"],
     "coordinates": { "latitude": 40.985, "longitude": 29.026 },
     "sources": ["Rita Website", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "86",
@@ -1548,7 +1548,7 @@
     "images": ["lamialuce1.jpg"],
     "coordinates": { "latitude": 40.957, "longitude": 29.098 },
     "sources": ["GZT", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "87",
@@ -1566,7 +1566,7 @@
     "images": ["fauna1.jpg"],
     "coordinates": { "latitude": 40.993, "longitude": 29.130 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "88",
@@ -1584,7 +1584,7 @@
     "images": ["ilforno1.jpg"],
     "coordinates": { "latitude": 41.032, "longitude": 28.979 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "89",
@@ -1602,7 +1602,7 @@
     "images": ["lafontanaditrevi1.jpg"],
     "coordinates": { "latitude": 41.033, "longitude": 28.989 },
     "sources": ["GZT", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "90",
@@ -1620,7 +1620,7 @@
     "images": ["ilpadrino1.jpg"],
     "coordinates": { "latitude": 40.963, "longitude": 29.083 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "91",
@@ -1638,7 +1638,7 @@
     "images": ["theordinary1.jpg"],
     "coordinates": { "latitude": 41.056, "longitude": 28.995 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": "İtalyan"
+    "categories": ["İtalyan"]
   },
   {
     "id": "92",
@@ -1656,7 +1656,7 @@
     "images": ["cesmebazlama1.jpg"],
     "coordinates": { "latitude": 41.050, "longitude": 28.996 },
     "sources": ["ENUYGUN", "Miniyol"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "93",
@@ -1674,7 +1674,7 @@
     "images": ["vankahvalti1.jpg"],
     "coordinates": { "latitude": 41.028, "longitude": 28.980 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "94",
@@ -1692,7 +1692,7 @@
     "images": ["brekkie1.jpg"],
     "coordinates": { "latitude": 40.985, "longitude": 29.027 },
     "sources": ["Miniyol", "Brekkie Website"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "95",
@@ -1710,7 +1710,7 @@
     "images": ["privato1.jpg"],
     "coordinates": { "latitude": 41.024, "longitude": 28.975 },
     "sources": ["Miniyol", "Privato Website"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "96",
@@ -1728,7 +1728,7 @@
     "images": ["namligurme1.jpg"],
     "coordinates": { "latitude": 41.023, "longitude": 28.975 },
     "sources": ["ENUYGUN", "Miniyol"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "97",
@@ -1746,7 +1746,7 @@
     "images": ["sadekahve1.jpg"],
     "coordinates": { "latitude": 41.082, "longitude": 29.053 },
     "sources": ["ENUYGUN", "Miniyol"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "98",
@@ -1764,7 +1764,7 @@
     "images": ["cinaralti1.jpg"],
     "coordinates": { "latitude": 41.056, "longitude": 29.049 },
     "sources": ["Miniyol", "Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "99",
@@ -1782,7 +1782,7 @@
     "images": ["emirgansutis1.jpg"],
     "coordinates": { "latitude": 41.089, "longitude": 29.048 },
     "sources": ["ENUYGUN", "Sütiş Website"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "100",
@@ -1800,7 +1800,7 @@
     "images": ["kuff1.jpg"],
     "coordinates": { "latitude": 40.990, "longitude": 29.028 },
     "sources": ["Miniyol", "Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "101",
@@ -1818,7 +1818,7 @@
     "images": ["cakmak1.jpg"],
     "coordinates": { "latitude": 41.043, "longitude": 29.006 },
     "sources": ["ENUYGUN", "Miniyol"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "102",
@@ -1836,7 +1836,7 @@
     "images": ["forno1.jpg"],
     "coordinates": { "latitude": 41.033, "longitude": 28.941 },
     "sources": ["Miniyol", "Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "103",
@@ -1854,7 +1854,7 @@
     "images": ["hadika1.jpg"],
     "coordinates": { "latitude": 41.076, "longitude": 28.974 },
     "sources": ["ENUYGUN", "Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "104",
@@ -1872,7 +1872,7 @@
     "images": ["kirinti1.jpg"],
     "coordinates": { "latitude": 40.963, "longitude": 29.083 },
     "sources": ["Kırıntı Website"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "105",
@@ -1890,7 +1890,7 @@
     "images": ["journey1.jpg"],
     "coordinates": { "latitude": 41.031, "longitude": 28.980 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "106",
@@ -1908,7 +1908,7 @@
     "images": ["bop1.jpg"],
     "coordinates": { "latitude": 40.982, "longitude": 29.021 },
     "sources": ["Miniyol", "Yerel İncelemeler"],
-    "categories": "Kahvaltı & Brunch"
+    "categories": ["Kahvaltı & Brunch"]
   },
   {
     "id": "107",
@@ -1926,7 +1926,7 @@
     "images": ["petra1.jpg"],
     "coordinates": { "latitude": 41.066, "longitude": 29.006 },
     "sources": ["Pegasus", "MÜDAVİM"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "108",
@@ -1944,7 +1944,7 @@
     "images": ["coffeesapiens1.jpg"],
     "coordinates": { "latitude": 41.023, "longitude": 28.974 },
     "sources": ["Pegasus", "Yerel İncelemeler"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "109",
@@ -1962,7 +1962,7 @@
     "images": ["boter1.jpg"],
     "coordinates": { "latitude": 40.975, "longitude": 29.037 },
     "sources": ["Pegasus", "MÜDAVİM"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "110",
@@ -1980,7 +1980,7 @@
     "images": ["storycoffee1.jpg"],
     "coordinates": { "latitude": 40.985, "longitude": 29.023 },
     "sources": ["Pegasus", "MÜDAVİM"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "111",
@@ -1998,7 +1998,7 @@
     "images": ["ferncafe1.jpg"],
     "coordinates": { "latitude": 40.975, "longitude": 29.037 },
     "sources": ["Pegasus", "MÜDAVİM"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "112",
@@ -2016,7 +2016,7 @@
     "images": ["montag1.jpg"],
     "coordinates": { "latitude": 41.050, "longitude": 28.990 },
     "sources": ["MÜDAVİM", "Yerel İncelemeler"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "113",
@@ -2034,7 +2034,7 @@
     "images": ["dripcoffee1.jpg"],
     "coordinates": { "latitude": 41.034, "longitude": 28.977 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },
   {
     "id": "114",
@@ -2052,7 +2052,7 @@
     "images": ["grandpa1.jpg"],
     "coordinates": { "latitude": 40.988, "longitude": 29.023 },
     "sources": ["TimeOut", "Yerel İncelemeler"],
-    "categories": "Kahve & Tatlı"
+    "categories": ["Kahve & Tatlı"]
   },{
     "id": "115",
     "name": "MOC İstanbul (Ministry of Coffee)",
@@ -2196,7 +2196,7 @@
     "images": ["gulluoglu1.jpg"],
     "coordinates": { "latitude": 41.023, "longitude": 28.975 },
     "sources": ["Karaköy Güllüoğlu Website", "Yemek.com"],
-    "categories": "Tatlı & Pastane"
+    "categories": ["Tatlı & Pastane"]
   },
   {
     "id": "124",
@@ -2214,7 +2214,7 @@
     "images": ["baylan1.jpg"],
     "coordinates": { "latitude": 40.990, "longitude": 29.023 },
     "sources": ["Baylan Website", "Yemek.com"],
-    "categories": "Tatlı & Pastane"
+    "categories": ["Tatlı & Pastane"]
   },
   {
     "id": "125",
@@ -2232,7 +2232,7 @@
     "images": ["savoy1.jpg"],
     "coordinates": { "latitude": 41.031, "longitude": 28.980 },
     "sources": ["Yemek.com", "Yerel İncelemeler"],
-    "categories": "Tatlı & Pastane"
+    "categories": ["Tatlı & Pastane"]
   },
   {
     "id": "126",
@@ -2250,7 +2250,7 @@
     "images": ["bitezdondurma1.jpg"],
     "coordinates": { "latitude": 41.042, "longitude": 29.006 },
     "sources": ["Bitez Dondurma Website"],
-    "categories": "Tatlı & Pastane"
+    "categories": ["Tatlı & Pastane"]
   },
   {
     "id": "127",
@@ -2268,7 +2268,7 @@
     "images": ["jadore1.jpg"],
     "coordinates": { "latitude": 41.025, "longitude": 28.974 },
     "sources": ["Yerel İncelemeler"],
-    "categories": "Tatlı & Pastane"
+    "categories": ["Tatlı & Pastane"]
   },
   {
     "id": "128",
@@ -2286,7 +2286,7 @@
     "images": ["lovedgelato1.jpg"],
     "coordinates": { "latitude": 40.963, "longitude": 29.083 },
     "sources": ["Saatolog", "Yerel İncelemeler"],
-    "categories": "Tatlı & Pastane"
+    "categories": ["Tatlı & Pastane"]
   },
   {
     "id": "129",
