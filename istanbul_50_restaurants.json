@@ -3222,7 +3222,7 @@
     "images": ["parkfora1.jpg"],
     "coordinates": { "latitude": 41.048, "longitude": 29.023 },
     "sources": ["Michelin Guide", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "181",
@@ -3240,7 +3240,7 @@
     "images": ["yenikoyiskele1.jpg"],
     "coordinates": { "latitude": 41.102, "longitude": 29.053 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "182",
@@ -3258,7 +3258,7 @@
     "images": ["giritli1.jpg"],
     "coordinates": { "latitude": 41.002, "longitude": 28.983 },
     "sources": ["PlumeMag", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "183",
@@ -3276,7 +3276,7 @@
     "images": ["tarihiyarimada1.jpg"],
     "coordinates": { "latitude": 41.021, "longitude": 28.970 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "184",
@@ -3294,7 +3294,7 @@
     "images": ["kiyi1.jpg"],
     "coordinates": { "latitude": 41.144, "longitude": 29.057 },
     "sources": ["Vedat Milör", "Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "185",
@@ -3312,7 +3312,7 @@
     "images": ["taka1.jpg"],
     "coordinates": { "latitude": 41.031, "longitude": 28.980 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "186",
@@ -3330,7 +3330,7 @@
     "images": ["eftelya1.jpg"],
     "coordinates": { "latitude": 40.975, "longitude": 29.037 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "187",
@@ -3348,7 +3348,7 @@
     "images": ["aliocakbasi1.jpg"],
     "coordinates": { "latitude": 41.023, "longitude": 28.974 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "188",
@@ -3366,7 +3366,7 @@
     "images": ["baliknoktasi1.jpg"],
     "coordinates": { "latitude": 40.963, "longitude": 29.091 },
     "sources": ["Yemek.com"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "189",
@@ -3384,7 +3384,7 @@
     "images": ["zipkinbalik1.jpg"],
     "coordinates": { "latitude": 41.053, "longitude": 28.995 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "190",
@@ -3402,7 +3402,7 @@
     "images": ["mavibalik1.jpg"],
     "coordinates": { "latitude": 41.059, "longitude": 29.034 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "191",
@@ -3420,7 +3420,7 @@
     "images": ["dalyanbalik1.jpg"],
     "coordinates": { "latitude": 41.173, "longitude": 29.088 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "192",
@@ -3438,7 +3438,7 @@
     "images": ["borsabalikevi1.jpg"],
     "coordinates": { "latitude": 41.096, "longitude": 29.006 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "193",
@@ -3456,7 +3456,7 @@
     "images": ["ficibalik1.jpg"],
     "coordinates": { "latitude": 40.985, "longitude": 29.023 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   },
   {
     "id": "194",
@@ -3474,6 +3474,6 @@
     "images": ["sureyyabalik1.jpg"],
     "coordinates": { "latitude": 40.875, "longitude": 29.124 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Deniz Ürünleri"]
+    "categories": ["Deniz Ürünleri & Balık"]
   }
 ]
