@@ -46,7 +46,7 @@
     "price_level": 5,
     "rating": 4.6,
     "opening_hours": "12:00-15:00 öğlen, 18:00-02:00 akşam (hafta sonu geç kapanış) :contentReference[oaicite:2]{index=2}",
-    "description": "Boğaz ve İstanbul manzarasına hâkim konumuyla; şık atmosferde modern Türk-Akdeniz mutfağı sunan, hem restoran hem de gece kulübü konseptini bir araya getiren İstanbul’un ikonik mekânlarından biridir.",
+    f"description": "Boğaz ve İstanbul manzarasına hâkim konumuyla; şık atmosferde modern Türk-Akdeniz mutfağı sunan, hem restoran hem de gece kulübü konseptini bir araya getiren İstanbul’un ikonik mekânlarından biridir."
     "tags": ["boğaz manzarası", "şık atmosfer", "şehir kulübü"],
     "images": ["ulus29_1.jpg"],
     "coordinates": { "latitude": 41.059, "longitude": 29.023 },
