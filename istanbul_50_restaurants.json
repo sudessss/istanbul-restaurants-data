@@ -46,7 +46,7 @@
     "price_level": 5,
     "rating": 4.6,
     "opening_hours": "12:00-15:00 öğlen, 18:00-02:00 akşam (hafta sonu geç kapanış) :contentReference[oaicite:2]{index=2}",
-    "description": "Boğaz’a ve İstanbul’a hâkim manzarasıyla; şık atmosferde modern Türk-Akdeniz mutfağı sunan ikonik bir restoran. :contentReference[oaicite:3]{index=3}",
+    f"description": "Boğaz ve İstanbul manzarasına hâkim konumuyla; şık atmosferde modern Türk-Akdeniz mutfağı sunan, hem restoran hem de gece kulübü konseptini bir araya getiren İstanbul’un ikonik mekânlarından biridir."
     "tags": ["boğaz manzarası", "şık atmosfer", "şehir kulübü"],
     "images": ["ulus29_1.jpg"],
     "coordinates": { "latitude": 41.059, "longitude": 29.023 },
@@ -118,7 +118,7 @@
     "price_level": 5,
     "rating": 4.7,
     "opening_hours": "12:00 - 15:00 öğlen, 18:00 - 02:00 akşam",
-    "description": "Boğaz manzarası eşliğinde Akdeniz ve Japon füzyon mutfağı sunan 25 yıldır İstanbul’un sayılı lüks mekanlarından. :contentReference[oaicite:10]{index=10}",
+    "description": "Boğaz manzarası eşliğinde Akdeniz ve Japon füzyon mutfağı sunan 25 yıldır İstanbul’un sayılı lüks mekanlarından.",
     "tags": ["boğaz manzarası", "füzyon mutfak", "lüks lounge"],
     "images": ["sunset1.jpg"],
     "coordinates": { "latitude": 41.058, "longitude": 29.021 },
@@ -520,24 +520,6 @@
     "images": ["shangpalace1.jpg"],
     "coordinates": { "latitude": 41.037, "longitude": 29.006 },
     "sources": ["Shangri-La Website"],
-    "categories": ["Lüks Restoranlar"]
-  },
-  {
-    "id": "30",
-    "name": "Ulus 29",
-    "neighborhood": "Beşiktaş",
-    "address": "Ulus Mah. A. Adnan Saygun Cad. No:71, Ulus, Beşiktaş, İstanbul",
-    "phone": "+90 212 358 29 29",
-    "website": "https://ulus29.com/",
-    "cuisine": ["Uluslararası", "Türk"],
-    "price_level": 4,
-    "rating": 4.3,
-    "opening_hours": "19:00 - 02:00 (Pazartesi kapalı)",
-    "description": "Boğaz manzarasına sahip, hem restoran hem de gece kulübü konseptini birleştiren, İstanbul'un ikonik mekanlarından.",
-    "tags": ["Boğaz manzarası", "gece hayatı", "Uluslararası"],
-    "images": ["ulus29_1.jpg"],
-    "coordinates": { "latitude": 41.066, "longitude": 29.026 },
-    "sources": ["Ulus 29 Website"],
     "categories": ["Lüks Restoranlar"]
   },
   {
