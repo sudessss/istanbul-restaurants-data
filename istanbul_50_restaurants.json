@@ -12,7 +12,7 @@
     "opening_hours": "18:30 - 23:30",
     "description": "Tarihi Pera bölgesinde, şehir manzaralı çatı katı konumunda; modern Anadolu mutfağı ve yüksek gastronomi deneyimi. :contentReference[oaicite:0]{index=0}",
     "tags": ["fine dining", "şehir manzarası", "Anadolu modern"],
-    "images": ["mikla1.jpg"],
+    "images": ["https://www.miklarestaurant.com/media/jbif0qvu/4.jpg"],
     "coordinates": { "latitude": 41.033, "longitude": 28.974 },
     "sources": ["Mikla Website", "Michelin Guide", "Travel Talk Tours"],
     "categories": ["Lüks Restoranlar"]
@@ -520,24 +520,6 @@
     "images": ["shangpalace1.jpg"],
     "coordinates": { "latitude": 41.037, "longitude": 29.006 },
     "sources": ["Shangri-La Website"],
-    "categories": ["Lüks Restoranlar"]
-  },
-  {
-    "id": "30",
-    "name": "Ulus 29",
-    "neighborhood": "Beşiktaş",
-    "address": "Ulus Mah. A. Adnan Saygun Cad. No:71, Ulus, Beşiktaş, İstanbul",
-    "phone": "+90 212 358 29 29",
-    "website": "https://ulus29.com/",
-    "cuisine": ["Uluslararası", "Türk"],
-    "price_level": 4,
-    "rating": 4.3,
-    "opening_hours": "19:00 - 02:00 (Pazartesi kapalı)",
-    "description": "Boğaz manzarasına sahip, hem restoran hem de gece kulübü konseptini birleştiren, İstanbul'un ikonik mekanlarından.",
-    "tags": ["Boğaz manzarası", "gece hayatı", "Uluslararası"],
-    "images": ["ulus29_1.jpg"],
-    "coordinates": { "latitude": 41.066, "longitude": 29.026 },
-    "sources": ["Ulus 29 Website"],
     "categories": ["Lüks Restoranlar"]
   },
   {
