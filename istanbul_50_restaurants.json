@@ -1,57 +1,77 @@
 [
   {
-    "id": "1",
-    "name": "Mikla Restaurant",
-    "neighborhood": "Beyoğlu",
-    "address": "Meşrutiyet Cd. No:15, Tepebaşı, Beyoğlu, İstanbul",
-    "phone": "+90 212 293 56 56",
-    "website": "https://www.miklarestaurant.com",
-    "cuisine": ["New Anatolian Kitchen", "Modern Türk"],
-    "price_level": 5,
-    "rating": 4.8,
-    "opening_hours": "18:30 - 23:30",
-    "description": "Tarihi Pera bölgesinde, şehir manzaralı çatı katı konumunda; modern Anadolu mutfağı ve yüksek gastronomi deneyimi. :contentReference[oaicite:0]{index=0}",
-    "tags": ["fine dining", "şehir manzarası", "Anadolu modern"],
-    "images": ["https://www.miklarestaurant.com/media/jbif0qvu/4.jpg"],
-    "coordinates": { "latitude": 41.033, "longitude": 28.974 },
-    "sources": ["Mikla Website", "Michelin Guide", "Travel Talk Tours"],
-    "categories": ["Lüks Restoranlar"]
-  },
+  "id": "Mikla-001",
+  "name": "Mikla Restaurant",
+  "neighborhood": "Beyoğlu / Tepebaşı",
+  "address": "Meşrutiyet Caddesi No:15, 34430 Beyoğlu, İstanbul, Türkiye",
+  "phone": "+90 (212) 293 56 56",
+  "website": "https://www.miklarestaurant.com",
+  "cuisine": ["New Anatolian Kitchen", "Contemporary Turkish / Modern Anatolian"],
+  "priceLevel": 5,
+  "rating": 4.8,
+  "openingHours": "Monday–Saturday: 18:00–24:00 (last food order 21:30); Bar 18:00–02:00. Sunday closed.",  
+  "description": "Çağdaş Anadolu mutfağını (New Anatolian Kitchen) modern yorumlarla sunan, çatı katında şehir manzaralı fine-dining restoran.",  
+  "tags": ["fine dining", "şehir manzarası", "Anadolu modern", "rooftop", "tasting menu"],  
+  "images": ["https://www.miklarestaurant.com/media/jbif0qvu/4.jpg"],  
+  "coordinates": {
+    "latitude": 41.033,
+    "longitude": 28.974
+  },  
+  "sources": [
+    "https://www.miklarestaurant.com",
+  ],  
+  "categories": ["Lüks Restoranlar","Türk Mutfağı"]
+},
   {
-    "id": "2",
-    "name": "Nicole Restaurant",
-    "neighborhood": "Beyoğlu (Tomtom Suites)",
-    "address": "Tomtom Kaptan Sok. No:18, 34433 Beyoğlu, İstanbul",
-    "phone": "+90 212 292 44 67",
-    "website": "https://nicole.com.tr",
-    "cuisine": ["Modern Türk", "Fine Dining"],
-    "price_level": 5,
-    "rating": 4.7,
-    "opening_hours": "18:30 - 23:30 (Kapalı Pazartesi) ",
-    "description": "Terasında tarihi İstanbul ve Adalar manzarasıyla; mevsimsel menüler ve dikkatli bir şarap eşleşmesi sunan ödüllü fine dining mekan. :contentReference[oaicite:1]{index=1}",
-    "tags": ["terras manzara", "ödüllü menü", "fine dining"],
-    "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRylDhPQAXWy60INf0EQZgwHpbtrZJ7gKqSQ&s"],
-    "coordinates": { "latitude": 41.031, "longitude": 28.977 },
-    "sources": ["Nicole Website", "Michelin Guide", "Tripadvisor"],
-    "categories": ["Lüks Restoranlar"]
+  "id": "2",
+  "name": "Nicole Restaurant",
+  "neighborhood": "Beyoğlu (Tomtom Suites)",
+  "address": "Tomtom Kaptan Sok. No:18, 34433 Beyoğlu, İstanbul",
+  "phone": "+90 212 292 44 67",
+  "website": "https://nicole.com.tr",
+  "cuisine": ["Modern Türk", "Fine Dining"],
+  "priceLevel": 5,
+  "rating": 4.7,
+  "openingHours": "18:30 - 23:30 (Pazartesi Kapalı)",
+  "description": "İstanbul’un tarihi Tomtom Suites binasında yer alan Nicole Restaurant, şehrin eski yarımadası, Galata ve Adalar hattını kapsayan etkileyici bir manzaraya sahip terasıyla öne çıkan prestijli bir fine dining mekandır. Menü, tamamen mevsimsel ürünlere göre şekillenen modern Türk mutfağı yorumları üzerine kuruludur ve her tabak zarif sunumlar, sofistike dokular ve minimal fakat derin aromalarla hazırlanır. Mutfağın sade ama güçlü kimliği, yerel üreticilerden temin edilen kaliteli malzemelerle birleşerek gastronomik bir deneyim oluşturur. Nicole, özellikle özenle seçilmiş şarap eşleşmeleri, yaratıcı tadım menüsü ve sessiz, rafine atmosferi ile İstanbul’un en özel yemek deneyimlerinden birini sunar. Ödüllü şef ekibi, geleneksel tatları çağdaş tekniklerle yeniden yorumlayarak hem yerel hem uluslararası misafirlerin beğenisini toplamaktadır.",
+  "tags": ["terras manzara", "ödüllü menü", "fine dining"],
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRylDhPQAXWy60INf0EQZgwHpbtrZJ7gKqSQ&s"
+  ],
+  "coordinates": {
+    "latitude": 41.031,
+    "longitude": 28.977
   },
+  "sources": [
+    "Nicole Website",
+    "Michelin Guide",
+    "Tripadvisor"
+  ],
+  "categories": [
+    "Lüks Restoranlar",
+    "Türk Mutfağı"
+  ]
+},
   {
-    "id": "3",
-    "name": "Ulus 29",
-    "neighborhood": "Ulus",
-    "address": "A. Adnan Saygun Cd., Ulus Parkı İçi No:71/1, Beşiktaş, İstanbul",
-    "phone": "+90 212 358 29 29",
-    "website": "https://www.29.com.tr",
-    "cuisine": ["Türk / Akdeniz", "Fine Dining"],
-    "price_level": 5,
-    "rating": 4.6,
-    "opening_hours": "12:00-15:00 öğlen, 18:00-02:00 akşam (hafta sonu geç kapanış) :contentReference[oaicite:2]{index=2}",
-    "description": "Boğaz’a ve İstanbul’a hâkim manzarasıyla; şık atmosferde modern Türk-Akdeniz mutfağı sunan ikonik bir restoran. :contentReference[oaicite:3]{index=3}",
-    "tags": ["boğaz manzarası", "şık atmosfer", "şehir kulübü"],
-    "images": ["ulus29_1.jpg"],
-    "coordinates": { "latitude": 41.059, "longitude": 29.023 },
-    "sources": ["Ulus29 Website", "The Wandering Eater review"],
-    "categories": ["Lüks Restoranlar"]
+   "id": "3",
+  "name": "Ulus 29",
+  "neighborhood": "Ulus",
+  "address": "A. Adnan Saygun Cd., Ulus Parkı İçi No:71/1, Beşiktaş, İstanbul",
+  "phone": "+90 212 358 29 29",
+  "website": "https://www.29.com.tr",
+  "cuisine": ["Türk / Akdeniz", "Fine Dining"],
+  "priceLevel": 5,
+  "rating": 4.6,
+  "openingHours": "12:00-15:00 öğlen, 18:00-02:00 akşam (hafta sonu geç kapanış)",
+  "description": "İstanbul Boğazı'nın en etkileyici noktalarından birinde konumlanan Ulus 29, hem panoramik manzarası hem de şık ve modern atmosferiyle şehrin en prestijli restoranlarından biridir. Mekân, uzun yıllardır fine dining deneyimini lounge kültürüyle birleştiren yapısıyla dikkat çeker. Menüde modern Türk mutfağının yanı sıra Akdeniz esintileri yer alır; özellikle taze deniz ürünleri, taş fırın lezzetleri ve yaratıcı meze yorumları misafirler tarafından sıkça tercih edilir. Zarif servis anlayışı, kaliteli malzemelerle hazırlanan özenli tabaklar ve geniş şarap kavı, Ulus 29’u hem özel akşam yemekleri hem de sosyalleşme odaklı buluşmalar için ideal bir adres haline getirir. Hafta sonları DJ performansları ve canlı atmosferiyle akşam yemeğini eğlenceyle birleştiren bir şehir klasiği olarak kabul edilir.",
+  "tags": ["boğaz manzarası", "şık atmosfer", "şehir kulübü"],
+  "images": ["ulus29_1.jpg"],
+  "coordinates": {
+    "latitude": 41.059,
+    "longitude": 29.023
+  },
+  "sources": ["Ulus29 Website", "The Wandering Eater review"],
+  "categories": ["Lüks Restoranlar", "Türk Mutfağı", "Deniz Ürünleri & Balık"]
   },
   {
     "id": "4",
