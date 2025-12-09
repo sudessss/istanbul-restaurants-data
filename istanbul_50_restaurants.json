@@ -86,10 +86,15 @@
   "cuisine": ["Türk / Akdeniz", "Fine Dining"],
   "priceLevel": 5,
   "rating": 4.6,
-  "openingHours": "12:00-15:00 öğlen, 18:00-02:00 akşam (hafta sonu geç kapanış)",
+  "openingHours": "Pazatesi -Perşembe: 12:00-15:00, 18:00-02:00 Cuma: 12:00-15:00, 18:00-03:00 Hafta Sonu: 18.00 - 03.00",
   "description": "İstanbul Boğazı'nın en etkileyici noktalarından birinde konumlanan Ulus 29, hem panoramik manzarası hem de şık ve modern atmosferiyle şehrin en prestijli restoranlarından biridir. Mekân, uzun yıllardır fine dining deneyimini lounge kültürüyle birleştiren yapısıyla dikkat çeker. Menüde modern Türk mutfağının yanı sıra Akdeniz esintileri yer alır; özellikle taze deniz ürünleri, taş fırın lezzetleri ve yaratıcı meze yorumları misafirler tarafından sıkça tercih edilir. Zarif servis anlayışı, kaliteli malzemelerle hazırlanan özenli tabaklar ve geniş şarap kavı, Ulus 29’u hem özel akşam yemekleri hem de sosyalleşme odaklı buluşmalar için ideal bir adres haline getirir. Hafta sonları DJ performansları ve canlı atmosferiyle akşam yemeğini eğlenceyle birleştiren bir şehir klasiği olarak kabul edilir.",
   "tags": ["boğaz manzarası", "şık atmosfer", "şehir kulübü"],
-  "images": ["ulus29_1.jpg"],
+  "images": ["https://www.omeruzun.com/assets/images/restaurant/29/2.jpg",
+  "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1163/medium_Ulus29_5.jpg",
+  "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1166/medium_Ulus29_7.jpg",
+  "https://mudavim.net/wp-content/uploads/2018/05/29-restaurant-scaled-1200x1200-cropped.jpeg",
+  "https://axwwgrkdco.cloudimg.io/v7/__gmpics3__/ef95e1d3511a41258f600133030a6c29.jpeg",
+  "https://mudavim.net/wp-content/uploads/2024/02/29-restoran-1024x683.jpg"],
   "coordinates": {
     "latitude": 41.059,
     "longitude": 29.023
