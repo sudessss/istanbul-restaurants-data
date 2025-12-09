@@ -1,6 +1,6 @@
 [
   {
-  "id": "Mikla-001",
+  "id": "1",
   "name": "Mikla Restaurant",
   "neighborhood": "Beyoğlu / Tepebaşı",
   "address": "Meşrutiyet Caddesi No:15, 34430 Beyoğlu, İstanbul, Türkiye",
@@ -18,7 +18,7 @@
     "longitude": 28.974
   },  
   "sources": [
-    "https://www.miklarestaurant.com",
+    "https://www.miklarestaurant.com"
   ],  
   "categories": ["Lüks Restoranlar","Türk Mutfağı"]
 },
