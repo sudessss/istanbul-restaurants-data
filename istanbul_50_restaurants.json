@@ -149,7 +149,7 @@
     "opening_hours": "12:00 - 15:00 öğlen, 18:30 - 23:00 akşam",
     "description": "Şef Maksut Aşkar’ın liderliğinde; eski endüstri binasında, manzaralı mekanda Anadolu mirasını çağdaş şekilde yorumlayan lüks bir restoran. :contentReference[oaicite:7]{index=7}",
     "tags": ["Anadolu yorum", "manzara", "görsel mutfak"],
-    "images": ["neolokal1.jpg"],
+    "images": ["https://media.timeout.com/images/103501452/750/422/image.jpg", "https://www.rezervem.com.tr/img/blog/michelin-yildizli-restoranlar.jpg", "https://gastronomiturkey.com/images/haber/neolokal-3-kez-the-world-_e5f5.jpg", "https://axwwgrkdco.cloudimg.io/v7/__gmpics3__/e5ac878c238244c0af86f7f703ba8c7f.jpg", "https://foodle.pro/meals-images/2023-09-06-13-14-33-313a2dad4fa27a7314842a991ce1f072.jpg"],
     "coordinates": { "latitude": 41.022, "longitude": 28.973 },
     "sources": ["Wikipedia Neolokal", "Trip.com list"],
     "categories": ["Lüks Restoranlar"]
@@ -183,12 +183,12 @@
     "price_level": 5,
     "rating": 4.7,
     "opening_hours": "12:00 - 15:00 öğlen, 18:00 - 02:00 akşam",
-    "description": "Boğaz manzarası eşliğinde Akdeniz ve Japon füzyon mutfağı sunan 25 yıldır İstanbul’un sayılı lüks mekanlarından. :contentReference[oaicite:10]{index=10}",
+    "description": "Sunset Grill & Bar, 1994’ten bu yana Ulus Parkı’ndaki büyüleyici Boğaz manzarasıyla İstanbul’un en prestijli fine dining mekânlarından biri olarak öne çıkar. Akdeniz, Türk ve modern Japon mutfağını yaratıcı dokunuşlarla birleştiren restoran, profesyonel sushi deneyiminin şehirdeki öncülerindendir. Geniş terası, gün batımının altın tonları ve seçkin atmosferiyle Sunset, şık bir ambiyansta üst düzey gastronomi arayanlar için unutulmaz bir adres olmaya devam eder.",
     "tags": ["boğaz manzarası", "füzyon mutfak", "lüks lounge"],
-    "images": ["sunset1.jpg"],
+    "images": ["https://istanbultourstudio.s3.amazonaws.com/uploads/sight/cover_photo/128/Sunset_Grill_Bar_Ulus.jpg", "https://traveltoeat.com/wp-content/uploads/2015/11/wpid-Photo-20151117202749830.jpg", "https://www.geccemekan.com/files/uploads/news/default/20230619-yaz-simdi-basliyor-sunset-grill-bardan-yaza-ozel-tadim-menusu-736102-0e89fc247e01547231d8.jpg", "https://www.sunsetgrillbar.com/assets/upload/images/paket-servis-ed6957.jpg", "https://www.sunsetgrillbar.com/assets/upload/images/gallery/gallery-restoran-cbe45d.jpg", "https://www.sunsetgrillbar.com/assets/upload/images/gallery/gallery-restoran-5b260e.jpg"],
     "coordinates": { "latitude": 41.058, "longitude": 29.021 },
     "sources": ["SmartCitizenship list", "Trip.com list"],
-    "categories": ["Lüks Restoranlar"]
+    "categories": ["Lüks Restoranlar", "Uzak Doğu Mutfağı"]
   },
   {
     "id": "8",
@@ -201,9 +201,9 @@
     "price_level": 4,
     "rating": 4.6,
     "opening_hours": "10:00 - 23:00",
-    "description": "Dünyaca tanınan şef Salt Bae’nin markası; Etiler’de lüks steakhouse deneyimi sunuyor. :contentReference[oaicite:12]{index=12}",
+    "description": "Nusr-Et Steakhouse Etiler, 2010 yılında Nusret Gökçe tarafından açıldığından beri İstanbul’un en ikonik ve en çok konuşulan steak restoranlarından biri haline gelmiştir. Etiler’in merkezi konumunda yer alan restoran, üstün kalite etleri, özenle seçilmiş özel kesimleri ve sunum sırasında yapılan şovlarıyla hem yerli hem yabancı misafirlerin ilgisini çeker. Canlı, enerjik ve dinamik atmosferiyle dikkat çeken Nusr-Et, özellikle “lokum”, “Nusr-Et Special”, “meat sushi” ve gösterişli tomahawk sunumlarıyla tanınır. Etin pişirilmesi, kesilmesi ve servis edilmesi bir gastronomi performansına dönüştürülürken; profesyonel servis ekibi ve modern dekorasyon da deneyimi tamamlar. Fiyat seviyesi yüksek olsa da, Nusr-Et Etiler sunduğu et kalitesi, eğlenceli sunum tarzı ve sosyal medya kültürüyle bütünleşen ikonik kimliği sayesinde İstanbul’da unutulmaz bir steak deneyimi yaşamak isteyenler için popüler ve prestijli bir adres olmaya devam eder.",
     "tags": ["et şovu", "lüks steakhouse", "popüler"],
-    "images": ["nusr-et_etiler1.jpg"],
+    "images": ["https://www.nusr-et.com.tr/Resources/VenueBanner/ImageFile/etilerbanner3_l.jpg", "https://www.nusr-et.com.tr/Resources/VenueBanner/ImageFile/etilerbanner1_l.jpg", "https://www.nusr-et.com.tr/Elements/Images/newYorkSteak.jpg"],
     "coordinates": { "latitude": 41.066, "longitude": 29.022 },
     "sources": ["Trip.com list", "Fine Dining Istanbul list"],
     "categories": ["Lüks Restoranlar"]
