@@ -146,10 +146,10 @@
     "cuisine": ["Modern Türk", "Anadolu mutfağı"],
     "price_level": 5,
     "rating": 4.7,
-    "opening_hours": "12:00 - 15:00 öğlen, 18:30 - 23:00 akşam",
-    "description": "Şef Maksut Aşkar’ın liderliğinde; eski endüstri binasında, manzaralı mekanda Anadolu mirasını çağdaş şekilde yorumlayan lüks bir restoran. :contentReference[oaicite:7]{index=7}",
+    "opening_hours": "Pazar ve Pazartesi günleri kapalı diğer günler 18:30 - 23:30 arası hizmettedir.",
+    "description": "Neolokal, geleneğin derinlikleriyle modernin yenilikçi ruhunu bir lezzet sentezinde buluşturuyor. Anadolu'nun köklü mutfak mirasına beslenen bu derin saygı, mekânın her daim tazelenen ruhunun mayası niteliğinde. Anadolu'nun kadim tatları, modern tekniklerin ustalıkla uygulandığı çağdaş bir yoruma kavuşarak bu sofraların temel direğini oluşturuyor. Maksut Aşkar ve dinamik ekibi, köklü mutfak kültürümüzü özenle muhafaza ederken, yaratıcı dokunuşlarla adeta bir lezzet köprüsü inşa ediyor; geçmişle geleceği sofralarda buluşturuyor. Bu taahhüt, sürdürülebilir gastronomiye de yansıyor. Yakınlardaki çiftçilerle el ele vererek; seçkin Türk şaraplarının da aralarında bulunduğu yerel ürünlerle hazırlanan vejetaryen menüsüyle, doğaya saygıyı lezzetle buluşturuyorlar. Şef Aşkar, geleneksel lezzetlere naif ama bir o kadar özgün bir üslup kazandırıyor; her dokunuşunda geleneğin sınırlarını zarifçe genişletiyor. Menüde; çıtır derisi mükemmel şekilde kızartılmış mezgit balığı, karamelize kereviz püresi ve zeytinyağı ile midye suyunun uyumundan oluşan nefis bir sosla sunuluyor. Şefin baklavaya kattığı özgün yorum, inanılmaz derecede çıtır ve adeta bir lezzet patlaması yaşatan antep fıstığı zenginliğiyle öne çıkıyor. Enfes! Salt Galata'nın tarihi dokusu içinde konumlanan bu mekân, lezzet yolculuğunuza eşsiz bir atmosfer katarak anılarınızda iz bırakıyor. Geniş pencereler ve muhteşem teras, İstanbul’un tablo güzelliğindeki çatılarını ve ihtişamlı camilerini izlemek için eşsiz bir manzara sunar. Şehrin büyüleyici silueti, her bir detayıyla sizi kendine hayran bırakacak. Neolokal gerçek anlamda çok özel.",
     "tags": ["Anadolu yorum", "manzara", "görsel mutfak"],
-    "images": ["neolokal1.jpg"],
+    "images": ["https://media.timeout.com/images/103501452/750/422/image.jpg", "https://www.rezervem.com.tr/img/blog/michelin-yildizli-restoranlar.jpg", "https://gastronomiturkey.com/images/haber/neolokal-3-kez-the-world-_e5f5.jpg", "https://axwwgrkdco.cloudimg.io/v7/__gmpics3__/e5ac878c238244c0af86f7f703ba8c7f.jpg", "https://foodle.pro/meals-images/2023-09-06-13-14-33-313a2dad4fa27a7314842a991ce1f072.jpg"],
     "coordinates": { "latitude": 41.022, "longitude": 28.973 },
     "sources": ["Wikipedia Neolokal", "Trip.com list"],
     "categories": ["Lüks Restoranlar"]
