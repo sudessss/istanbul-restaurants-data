@@ -107,12 +107,12 @@
   "name": "TURK Fatih Tutak",
   "neighborhood": "Şişli",
   "address": "Hacıahmet Mah., Silahşör Cad. No:2, 34377 Şişli, İstanbul",
-  "phone": "+90 212 709 56 79",
+  "phone": "+90 530 051 83 04",
   "website": "https://www.turkft.com",
   "cuisine": ["Modern Türk", "Fine Dining", "Anadolu Esintileri", "Geleneksel Tariflerin Yenilikçi Yorumu"],
   "price_level": 5,
   "rating": 4.9,
-  "opening_hours": "18:30 - 23:30",
+  "opening_hours": "Pazar ve Pazartesi günleri kapalı diğer günler 18:30 - 23:30 arası hizmette",
   "description": "TURK Fatih Tutak, İstanbul'un Şişli semtinde yer alan ve Türkiye'nin gastronomi sahnesine yön veren en prestijli restoranlardan biridir. Restoranın kurucusu ve şefi Fatih Tutak, uzun yıllar Asya ve Avrupa’nın önde gelen mutfaklarında çalışmış; edindiği deneyimleri Anadolu kültürüyle birleştirerek kendine özgü, yaratıcı bir mutfak ortaya koymuştur. TURK, 2023 ve 2024 yıllarında aldığı **iki Michelin yıldızı** ile Türkiye'de bu başarıyı elde eden sayılı restoranlar arasındadır ve aynı zamanda ‘Michelin Service Award’ ve ‘Michelin Sommelier Award’ gibi özel ödüllere de layık görülmüştür.\n\nRestoranın menüsü tamamen şefin kişisel hikâyelerine, Anadolu’nun geleneksel lezzet mirasına ve yerel üreticilerden temin edilen malzemelere dayanır. Her tabak, duyusal bir deneyim sunacak şekilde tasarlanmış; görsel sunum, doku ve aroma açısından Fine Dining standartlarının ötesine geçmiştir. Menüler mevsimsel olarak değişir ve genellikle 12–15 aşamalı bir **imza tadım menüsü** şeklinde servis edilir.\n\nTURK Fatih Tutak’ın iç mekân tasarımı modern, sade ve doğal renklerden oluşur; açık mutfak konsepti sayesinde misafirler şef ve ekibin hazırlık sürecini izleyebilir. Restoran özellikle özel kutlamalar, gastronomi tutkunları ve uluslararası fine dining meraklıları tarafından tercih edilmektedir.",
   "tags": [
     "Michelin 2-yıldız",
@@ -123,7 +123,7 @@
     "Fine Dining",
     "Özel Deneyim"
   ],
-  "images": ["turkft1.jpg", "turkft2.jpg", "turkft3.jpg"],
+  "images": ["https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/dc/01/94/turk-fatih-tutak-restoran.jpg", "https://turkft.com/dist/img/main-layout-bg-7-29.jpg", "https://i.gazeteoksijen.com/storage/files/images/2022/10/11/istanbul-michelin-rehberinde-iki-yildiz-alan-tek-restoran-turk-fatih-tutak-zWB1.jpg", "https://wp.oggusto.com/wp-content/uploads/2022/10/turk-fathi-tutak.jpg", "https://turkft.com/dist/img/main-layout-bg-4-1.jpg", "https://turkft.com/dist/img/main-layout-bg-7-10.jpg"],
   "coordinates": { "latitude": 41.062, "longitude": 28.998 },
   "sources": [
     "Michelin Guide - TURK Fatih Tutak",
