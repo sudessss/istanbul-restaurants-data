@@ -74,22 +74,38 @@
   "categories": ["Lüks Restoranlar", "Türk Mutfağı", "Deniz Ürünleri & Balık"]
   },
   {
-    "id": "4",
-    "name": "TURK Fatih Tutak",
-    "neighborhood": "Şişli",
-    "address": "Hacıahmet Mah., Silahşör Cad. No:2, 34377 Şişli, İstanbul",
-    "phone": "+90 212 709 56 79",
-    "website": "https://www.turkft.com",
-    "cuisine": ["Modern Türk", "Fine Dining"],
-    "price_level": 5,
-    "rating": 4.9,
-    "opening_hours": "18:30 - 23:30",
-    "description": "Şef Fatih Tutak’ın imza restoranı; Anadolu ve Balkan mutfaklarını çağdaş yorumla sunuyor, Türkiye’de iki Michelin yıldızına sahip tek restoranlardan biri. :contentReference[oaicite:5]{index=5}",
-    "tags": ["Michelin 2-yıldız", "imza menü", "gourmet"],
-    "images": ["turkft1.jpg"],
-    "coordinates": { "latitude": 41.062, "longitude": 28.998 },
-    "sources": ["Wikipedia TURK Fatih Tutak", "Trip.com fine dining list"],
-    "categories": ["Lüks Restoranlar"]
+   "id": "4",
+  "name": "TURK Fatih Tutak",
+  "neighborhood": "Şişli",
+  "address": "Hacıahmet Mah., Silahşör Cad. No:2, 34377 Şişli, İstanbul",
+  "phone": "+90 212 709 56 79",
+  "website": "https://www.turkft.com",
+  "cuisine": ["Modern Türk", "Fine Dining", "Anadolu Esintileri", "Geleneksel Tariflerin Yenilikçi Yorumu"],
+  "price_level": 5,
+  "rating": 4.9,
+  "opening_hours": "18:30 - 23:30",
+  "description": "TURK Fatih Tutak, İstanbul'un Şişli semtinde yer alan ve Türkiye'nin gastronomi sahnesine yön veren en prestijli restoranlardan biridir. Restoranın kurucusu ve şefi Fatih Tutak, uzun yıllar Asya ve Avrupa’nın önde gelen mutfaklarında çalışmış; edindiği deneyimleri Anadolu kültürüyle birleştirerek kendine özgü, yaratıcı bir mutfak ortaya koymuştur. TURK, 2023 ve 2024 yıllarında aldığı **iki Michelin yıldızı** ile Türkiye'de bu başarıyı elde eden sayılı restoranlar arasındadır ve aynı zamanda ‘Michelin Service Award’ ve ‘Michelin Sommelier Award’ gibi özel ödüllere de layık görülmüştür.\n\nRestoranın menüsü tamamen şefin kişisel hikâyelerine, Anadolu’nun geleneksel lezzet mirasına ve yerel üreticilerden temin edilen malzemelere dayanır. Her tabak, duyusal bir deneyim sunacak şekilde tasarlanmış; görsel sunum, doku ve aroma açısından Fine Dining standartlarının ötesine geçmiştir. Menüler mevsimsel olarak değişir ve genellikle 12–15 aşamalı bir **imza tadım menüsü** şeklinde servis edilir.\n\nTURK Fatih Tutak’ın iç mekân tasarımı modern, sade ve doğal renklerden oluşur; açık mutfak konsepti sayesinde misafirler şef ve ekibin hazırlık sürecini izleyebilir. Restoran özellikle özel kutlamalar, gastronomi tutkunları ve uluslararası fine dining meraklıları tarafından tercih edilmektedir.",
+  "tags": [
+    "Michelin 2-yıldız",
+    "İmza Tadım Menüsü",
+    "Gourmet",
+    "Yerel Üretici",
+    "Modern Anadolu Mutfağı",
+    "Fine Dining",
+    "Özel Deneyim"
+  ],
+  "images": ["turkft1.jpg", "turkft2.jpg", "turkft3.jpg"],
+  "coordinates": { "latitude": 41.062, "longitude": 28.998 },
+  "sources": [
+    "Michelin Guide - TURK Fatih Tutak",
+    "Wikipedia - Fatih Tutak",
+    "Trip.com Fine Dining List",
+    "Resmi TURK Fatih Tutak Web Sitesi"
+  ],
+  "categories": [
+    "Lüks Restoranlar",
+     "Türk Mutfağı"
+  ]
   },
   {
     "id": "5",
