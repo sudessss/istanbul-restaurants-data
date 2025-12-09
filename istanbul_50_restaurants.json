@@ -146,10 +146,10 @@
     "cuisine": ["Modern Türk", "Anadolu mutfağı"],
     "price_level": 5,
     "rating": 4.7,
-    "opening_hours": "Pazar ve Pazartesi günleri kapalı diğer günler 18:30 - 23:30 arası hizmettedir.",
-    "description": "Neolokal, geleneğin derinlikleriyle modernin yenilikçi ruhunu bir lezzet sentezinde buluşturuyor. Anadolu'nun köklü mutfak mirasına beslenen bu derin saygı, mekânın her daim tazelenen ruhunun mayası niteliğinde. Anadolu'nun kadim tatları, modern tekniklerin ustalıkla uygulandığı çağdaş bir yoruma kavuşarak bu sofraların temel direğini oluşturuyor. Maksut Aşkar ve dinamik ekibi, köklü mutfak kültürümüzü özenle muhafaza ederken, yaratıcı dokunuşlarla adeta bir lezzet köprüsü inşa ediyor; geçmişle geleceği sofralarda buluşturuyor. Bu taahhüt, sürdürülebilir gastronomiye de yansıyor. Yakınlardaki çiftçilerle el ele vererek; seçkin Türk şaraplarının da aralarında bulunduğu yerel ürünlerle hazırlanan vejetaryen menüsüyle, doğaya saygıyı lezzetle buluşturuyorlar. Şef Aşkar, geleneksel lezzetlere naif ama bir o kadar özgün bir üslup kazandırıyor; her dokunuşunda geleneğin sınırlarını zarifçe genişletiyor. Menüde; çıtır derisi mükemmel şekilde kızartılmış mezgit balığı, karamelize kereviz püresi ve zeytinyağı ile midye suyunun uyumundan oluşan nefis bir sosla sunuluyor. Şefin baklavaya kattığı özgün yorum, inanılmaz derecede çıtır ve adeta bir lezzet patlaması yaşatan antep fıstığı zenginliğiyle öne çıkıyor. Enfes! Salt Galata'nın tarihi dokusu içinde konumlanan bu mekân, lezzet yolculuğunuza eşsiz bir atmosfer katarak anılarınızda iz bırakıyor. Geniş pencereler ve muhteşem teras, İstanbul’un tablo güzelliğindeki çatılarını ve ihtişamlı camilerini izlemek için eşsiz bir manzara sunar. Şehrin büyüleyici silueti, her bir detayıyla sizi kendine hayran bırakacak. Neolokal gerçek anlamda çok özel.",
+    "opening_hours": "12:00 - 15:00 öğlen, 18:30 - 23:00 akşam",
+    "description": "Şef Maksut Aşkar’ın liderliğinde; eski endüstri binasında, manzaralı mekanda Anadolu mirasını çağdaş şekilde yorumlayan lüks bir restoran. :contentReference[oaicite:7]{index=7}",
     "tags": ["Anadolu yorum", "manzara", "görsel mutfak"],
-    "images": ["https://media.timeout.com/images/103501452/750/422/image.jpg", "https://www.rezervem.com.tr/img/blog/michelin-yildizli-restoranlar.jpg", "https://gastronomiturkey.com/images/haber/neolokal-3-kez-the-world-_e5f5.jpg", "https://axwwgrkdco.cloudimg.io/v7/__gmpics3__/e5ac878c238244c0af86f7f703ba8c7f.jpg", "https://foodle.pro/meals-images/2023-09-06-13-14-33-313a2dad4fa27a7314842a991ce1f072.jpg"],
+    "images": ["neolokal1.jpg"],
     "coordinates": { "latitude": 41.022, "longitude": 28.973 },
     "sources": ["Wikipedia Neolokal", "Trip.com list"],
     "categories": ["Lüks Restoranlar"]
@@ -165,12 +165,12 @@
     "price_level": 5,
     "rating": 4.8,
     "opening_hours": "18:30 - 23:30",
-    "description": "Ünlü Japon şef Yoshizumi Nagaya tarafından yürütülen; İstanbul’da Japon fine dining sahnesinin öncülerinden. :contentReference[oaicite:9]{index=9}",
+    "description": "Sankai by Nagaya, yalnızca 24 kişilik oturma kapasitesiyle İstanbul’un en seçkin omakase deneyimlerinden birini sunan Michelin yıldızlı bir restorandır. Üç Michelin yıldızlı restoranlara sahip ünlü Şef Yoshizumi Nagaya’nın önderliğinde şekillenen Sankai, Türkiye’de Gault & Millau rehberinin ilk yılında 3 şapka ödülüne layık görülerek kısa sürede gastronomi sahnesinin zirvesine yerleşmiştir. Dünya çapında tanınan mimar Mahmut Anlar’ın ortağı olduğu Geo-ID tarafından tasarlanan mekân, sofistike ve sıcak bir Japon evi atmosferi yaratır. Usta Şef Nagaya ve edo-mae sushi şefi Hiroko Shibata’nın birlikte hazırladığı menü, geleneksel Edo-mae usulü sushi ve zarif Kaiseki mutfağını bir araya getirerek misafirlere benzersiz bir gastronomik yolculuk sunar. Edo-mae geleneği, Tokyo Körfezi’nin taze balıklarını kullanma felsefesine dayanırken; Kaiseki ise mevsimsel malzemelerle hazırlanan çok aşamalı haute cuisine’i temsil eder ve Japon kültürünün uyum, denge ve zarafet değerlerini yansıtır. Boğaz’ın kalbinde, Bebek’te yer alan Sankai by Nagaya, “omotenashi” anlayışıyla kusursuz Japon misafirperverliğini hissettiren, özel ve unutulmaz bir fine dining deneyimi vadeder.",
     "tags": ["sushi bar", "Japon mutfağı", "imza şef"],
-    "images": ["sankai1.jpg"],
+    "images": ["https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2024/02/22/9e467b0d59a04c3b93255bc28da08fe9_TURQUIE-HOTEL.jpg", "https://wp.oggusto.com/wp-content/uploads/2025/05/eatweekguide.com-sankai-02.jpg", "https://i.lezzet.com.tr/images-xxlarge-secondary/artik-bir-michelin-yildizi-var-sankai-by-nagaya-restoran-ve-menusu-8da03b40-de59-4e57-9ab6-a0b01fdc3ed4.jpg", "https://eatweekguide.com/wp-content/uploads/2024/04/eatweekguide.com-sankai-09.jpg", "https://eatweekguide.com/wp-content/uploads/2024/04/eatweekguide.com-sankai-18.jpg"],
     "coordinates": { "latitude": 41.040, "longitude": 29.003 },
     "sources": ["Wikipedia Sankai by Nagaya"],
-    "categories": ["Lüks Restoranlar"]
+    "categories": ["Lüks Restoranlar", "Uzak Doğu Mutfağı"]
   },
   {
     "id": "7",
