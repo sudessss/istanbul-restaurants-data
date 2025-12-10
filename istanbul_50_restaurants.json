@@ -925,7 +925,7 @@
     "opening_hours": "12:00 - 22:30 (Pazartesi kapalı)",
     "description": "Şef Kaan Sakarya ve Derin Arıbaş'ın popüler mekanında, özellikle dürümleri (pastırmalı, sosisli) ve yaratıcı sokak lezzetleri öne çıkar.",
     "tags": ["street food", "füzyon", "dürüm", "Moda"],
-    "images": ["basta1.jpg"],
+    "images": ["https://static.wixstatic.com/media/1ba607_5839b5034c6e4308bf55bd1985d3a5b2~mv2_d_4432_3136_s_4_2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ba607_5839b5034c6e4308bf55bd1985d3a5b2~mv2_d_4432_3136_s_4_2.jpeg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQujxQPWC9PiTNy2aHgKXfvmbwxHhGBOgjUw&s"],
     "coordinates": { "latitude": 40.985, "longitude": 29.023 },
     "sources": ["OGGUSTO", "Yerel İncelemeler"],
     "categories": ["Fast Food"]
