@@ -526,12 +526,12 @@
     "price_level": 4,
     "rating": 4.6,
     "opening_hours": "12:00 - 00:00",
-    "description": "Soho House İstanbul içinde yer alan, klasik Kuzey İtalyan mutfağı sunan şık ve popüler bir restoran.",
+    "description": "Cecconi’s, İstanbul’da modern İtalyan mutfağının en zarif temsilcilerinden biri olarak Akaretler’de yer alıyor. Geleneksel Kuzey İtalya lezzetlerini çağdaş bir sunumla birleştiren restoran; taze makarnalar, odun fırını pizzaları, deniz ürünleri ve klasik İtalyan antipastileriyle öne çıkıyor. Şık ama samimi atmosferi, zarif barı ve keyifli açık alanı sayesinde hem gündüz hem de akşam yemekleri için ideal bir buluşma noktası. Kaliteli malzemeye verdiği önem, özenli servisi ve rafine ambiyansı ile Cecconi’s, İstanbul’da İtalyan mutfağını üst seviyede deneyimlemek isteyenler için özel bir adres olarak biliniyor.",
     "tags": ["İtalyan", "lüks otel", "şık avlu"],
-    "images": ["https://www.cecconisrestaurants.com/media/bwabsiun/mariell-lindhansen-6212.jpg?width=1200&height=675&v=1db611b23ff3260"],
+    "images": ["https://www.cecconisrestaurants.com/media/bwabsiun/mariell-lindhansen-6212.jpg?width=1200&height=675&v=1db611b23ff3260", "https://www.cecconisrestaurants.com/media/dxanruu5/mariell-lindhansen-5932.jpg?rxy=0.5042688311484508,0.6283504895511788&width=1200&height=675&v=1dbb9defa60fca0", "https://www.cecconisrestaurants.com/media/bwabsiun/mariell-lindhansen-6212.jpg?width=1200&height=675&v=1db611b23ff3260", "https://www.cecconisrestaurants.com/media/cqkddqza/mariell-lindhansen-6499.jpg?width=1200&height=675&v=1db611fbd8a4ec0"],
     "coordinates": { "latitude": 41.031, "longitude": 28.977 },
     "sources": ["Cecconi's Website", "Soho House"],
-    "categories": ["Lüks Restoranlar"]
+    "categories": ["Lüks Restoranlar", "Pizza & İtalyan"]
   },
   {
     "id": "33",
@@ -539,14 +539,14 @@
     "neighborhood": "Beyoğlu",
     "address": "Serdar-ı Ekrem Cad. No:11 D:B, Galata, Beyoğlu, İstanbul",
     "phone": "+90 212 252 09 89",
-    "website": "https://www.ahestepera.com/",
+    "website": "https://ahesterestaurant.com",
     "cuisine": ["Modern Meyhane", "Yeni Anadolu"],
     "price_level": 3,
     "rating": 4.5,
     "opening_hours": "18:00 - 00:00 (Pazar kapalı)",
-    "description": "Geleneksel meyhane kültürünü modern ve yaratıcı meze/yemeklerle birleştiren, samimi ve şık bir mekan.",
+    "description": "Aheste, Galata’da yer alan ve modern meze kültürünü yaratıcı bir dokunuşla sunan zarif bir restoran olarak öne çıkıyor. Anadolu mutfağının köklü lezzetlerini çağdaş tekniklerle harmanlayan Aheste; paylaşım odaklı tabakları, mevsimsel ürünlere dayalı menüsü ve özgün tat kombinasyonlarıyla dikkat çekiyor. Samimi ama stil sahibi atmosferi, özenli sunumları ve sakin müzik seçkisiyle birleşerek keyifli bir gastronomi deneyimi yaratıyor. Hem yeni tatlar keşfetmek isteyenler hem de şehrin kalabalığından uzaklaşarak özel bir akşam geçirmek isteyenler için Aheste, Galata’nın en seçkin duraklarından biri kabul ediliyor.",
     "tags": ["meyhane", "modern Türk", "meze", "Galata"],
-    "images": ["aheste1.jpg"],
+    "images": ["https://image.hurimg.com/i/hurriyet/90/770x0/5c4afa14c03c0e1c40855385.jpg", "https://www.yolculukterapisi.com/wp-content/uploads/2015/03/aheste-770x375.jpg", "https://qul.imgix.net/084aeb51-b787-4200-8375-eae8aeb9b206/76617_sld.jpg", "https://axwwgrkdco.cloudimg.io/v7/__gmpics3__/01b27511b6234ba79ce7905869586f7f.jpg?width=1000"],
     "coordinates": { "latitude": 41.026, "longitude": 28.974 },
     "sources": ["Aheste Website", "Michelin Guide (Bib Gourmand)"],
     "categories": ["Lüks Restoranlar"]
@@ -564,7 +564,7 @@
     "opening_hours": "18:30 - 00:00",
     "description": "The Stay Warehouse binasının terasında yer alan, odun ateşinde pişen et ve deniz ürünleriyle öne çıkan, manzaralı restoran.",
     "tags": ["manzaralı", "odun ateşi", "Modern Türk", "Karaköy"],
-    "images": ["murver1.jpg"],
+    "images": ["https://www.istanbulmekanrehberi.com/images/izmir-mekan-rehberi-ismr-murver-kpk31.webp"],
     "coordinates": { "latitude": 41.023, "longitude": 28.976 },
     "sources": ["Mürver Website", "Michelin Guide"],
     "categories": ["Lüks Restoranlar"]
