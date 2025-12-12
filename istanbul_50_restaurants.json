@@ -369,7 +369,7 @@
     "images": ["https://mekanlar.com/img/img129/8ec134c2b81b33d68dd93971c8b7b7908b38dec5_plc_b4f22b4ab70a2592dcaf206c231ff07c.jpg", "https://www.istanbulmekanrehberi.com/images/117562598_298811764716489_8270769266964573557_n.jpg"],
     "coordinates": { "latitude": 41.0672, "longitude": 28.9876 },
     "sources": ["Instagram Zula Burger", "TripAdvisor Zula Istanbul"],
-    "categories": ["Fast Food", "Türk Mutfağı"]
+    "categories": ["Fast Food"]
   },
   {
     "id": "19",
@@ -387,7 +387,7 @@
     "images": ["https://cdn.getiryemek.com/products/1708511337286_500x375.jpeg","https://morrehber.com/wp-content/uploads/2021/05/salt-fried-chicken-besiktas-3.jpeg", "https://morrehber.com/wp-content/uploads/2021/05/salt-fried-chicken-besiktas-1.jpg"],
     "coordinates": { "latitude": 41.0440, "longitude": 29.0045 },
     "sources": ["Instagram SALT Fried Chicken", "TripAdvisor SALT Fried Chicken"],
-    "categories": ["Fast Food", "Türk Mutfağı"]
+    "categories": ["Fast Food"]
   },
   {
     "id": "20",
@@ -405,7 +405,7 @@
     "images": ["https://images.deliveryhero.io/image/fd-tr/LH/flz2-listing.jpg", "https://www.gurmerehber.com/storage/2025/09/Supernormal-Burger-Etiler-Classic-Smash-Burger.jpeg", "https://www.gurmerehber.com/storage/2025/09/Supernormal-Burger-Etiler-Icerisi.jpeg"],
     "coordinates": { "latitude": 41.0953, "longitude": 29.0257 },
     "sources": ["Instagram Supernormal Burger", "Gurme Rehberleri"],
-    "categories": ["Fast Food", "Türk Mutfağı"]
+    "categories": ["Fast Food"]
   },
   {
     "id": "21",
