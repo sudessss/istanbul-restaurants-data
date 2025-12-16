@@ -1171,35 +1171,35 @@
     "neighborhood": "Beşiktaş",
     "address": "Etiler Mah. Dilhayat Sok. No:10, Etiler, Beşiktaş, İstanbul",
     "phone": "+90 212 263 53 53",
-    "website": "https://lascarpetta.com.tr/",
+    "website": "https://www.lascarpetta.com.tr",
     "cuisine": ["İtalyan"],
     "price_level": 4,
     "rating": 4.4,
     "opening_hours": "12:00 - 00:00",
-    "description": "Şık atmosferi, özel sosları ve özellikle ravioli çeşitleriyle ünlü, lüks İtalyan restoranı.",
+    "description": "Trattoria La Scarpetta, İstanbul'un en nezih bölgelerinden biri olan Etiler’de yer alan ve adını İtalyanca’da tabağın dibinde kalan sosu ekmekle sıyırmak anlamına gelen keyifli bir deyimden alan, geleneksel ile modernin harmanlandığı seçkin bir İtalyan restoranıdır. Mekan, misafirlerini şehir gürültüsünden uzaklaştıran ferah ve yeşillikler içindeki bahçesi ile sıcak iç mimarisi sayesinde hem romantik akşam yemekleri hem de şık iş buluşmaları için ideal bir ambiyans sunmaktadır. Mutfağında mevsimsel ve taze malzemelere büyük önem veren restoranda, odun ateşinde hazırlanan çıtır pizzalar, günlük el yapımı taze makarnalar ve özellikle deniz mahsullü spesiyaller ön plana çıkarken; yemeğe eşlik eden zengin şarap kavı ve orijinal reçeteli hafif Tiramisusu ile tam bir gastronomik deneyim vadedilmektedir. İstanbul gastronomi sahnesinde İtalyan trattoria kültürünü kalite ve samimiyetle yaşatan La Scarpetta, detaylara gösterdiği özenle "iyi yemek" tutkunlarının vazgeçilmez duraklarından biri olmayı sürdürmektedir.",
     "tags": ["İtalyan", "lüks", "Etiler", "şık"],
-    "images": ["lascarpetta1.jpg"],
-    "coordinates": { "latitude": 41.077, "longitude": 29.019 },
+    "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/59/af/32/ic-mekanin-bir-bolumu.jpg?w=900&h=500&s=1", "https://www.lascarpetta.com.tr/wp-content/uploads/2015/06/MG_4750.jpg", "https://www.gurmerehber.com/storage/2023/05/Trattoria-La-Scarpetta-Etiler-Pizza.jpeg", "https://www.gurmerehber.com/storage/2023/05/Trattoria-La-Scarpetta-Etiler-Burratta.jpeg"],
+    "coordinates": { "latitude": 41.079, "longitude": 29.013 },
     "sources": ["La Scarpetta Website", "GZT"],
-    "categories": ["İtalyan"]
+    "categories": ["Pizza & İtalyan"]
   },
   {
     "id": "80",
     "name": "Il Sud",
     "neighborhood": "Kadıköy",
-    "address": "Caferağa Mah. Moda Cad. No:100/A, Moda, Kadıköy, İstanbul",
+    "address": "il Sud Giardino, Caddebostan, Agah Efendi Sk. No:7, 34728 Kadıköy/İstanbul",
     "phone": "+90 216 338 00 23",
-    "website": "N/A",
+    "website": "https://www.ilsudistanbul.com",
     "cuisine": ["Güney İtalyan", "Napoli Pizza"],
     "price_level": 2,
     "rating": 4.5,
     "opening_hours": "12:00 - 23:00",
-    "description": "Napoli'den gelen özel fırında pişirilen, gerçek Napoli pizzası ve Güney İtalya lezzetleri sunan popüler mekan.",
+    "description": "Il Sud, İstanbul Yeniköy’de Boğaz’ın kıyısında yer alan ve adını İtalyanca’da "Güney" kelimesinden alan, Güney İtalya mutfağının sıcaklığını ve lezzetlerini İstanbul’a taşıyan butik bir restorandır. Yeniköy’ün tarihi dokusuyla uyumlu, samimi ve şık bir atmosfere sahip olan mekan, özellikle Napoli usulü pizzaları, taze el yapımı makarnaları ve Güney İtalya’nın güneşli kıyılarını anımsatan deniz mahsullü tabaklarıyla dikkat çeker. Malzeme kalitesine büyük önem verilen mutfağında, İtalya’dan getirilen özel ürünler yerel ve mevsimsel malzemelerle birleştirilerek hem otantik hem de modern sunumlar ortaya çıkarılır. Boğaz havası eşliğinde keyifli bir hafta sonu öğle yemeği veya loş ışıklar altında romantik bir akşam yemeği için ideal bir tercih olan Il Sud, misafirlerine sadece bir yemek değil, Akdeniz’in neşeli ve rahat mutfak kültürünü hissettiren bir deneyim sunmaktadır.",
     "tags": ["Napoli pizza", "Güney İtalyan", "taş fırın", "Moda"],
-    "images": ["ilsud1.jpg"],
-    "coordinates": { "latitude": 40.982, "longitude": 29.021 },
+    "images": ["https://mudavim.net/wp-content/uploads/2024/06/il-sud-caddebostan-1024x738.jpeg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEe3cqC2CQLsjRWaEIdnFSmjE-xywxP6NSw&s"],
+    "coordinates": { "latitude": 41.015, "longitude": 28.973 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": ["İtalyan"]
+    "categories": ["Pizza & İtalyan"]
   },
   {
     "id": "81",
@@ -1212,12 +1212,12 @@
     "price_level": 3,
     "rating": 4.4,
     "opening_hours": "11:30 - 00:00",
-    "description": "Galata'da, tarihi bir avluda yer alan, geleneksel İtalyan tariflerini şık bir ortamda sunan restoran.",
+    "description": "Il Cortile, İstanbul’un tarihi dokusuyla büyüleyen Galata semtinde, eski bir Fransız okulunun (Ecole St. Pierre) muazzam iç avlusunda konumlanan, ismini de İtalyanca "avlu" kelimesinden alan büyüleyici bir restorandır. Galata Kulesi’nin gölgesinde, yüksek tavanlı tarihi kemerler ve taş duvarlar arasında saklı bir vaha sunan mekan, misafirlerini bir anda İstanbul’un kalabalığından koparıp İtalya’nın huzurlu meydanlarına götüren eşsiz bir atmosfere sahiptir. Menüsünde klasik İtalyan mutfağının en seçkin örneklerine yer veren Il Cortile, özellikle ev yapımı taze makarnaları, geleneksel tekniklerle hazırlanan ana yemekleri ve geniş şarap seçkisiyle gastronomi tutkunları için sofistike bir durak niteliğindedir. Hem tarihle iç içe romantik akşam yemekleri hem de şık kutlamalar için İstanbul’un en özel lokasyonlarından biri olarak kabul edilen bu restoran, sunduğu yüksek kaliteli hizmet anlayışıyla Akdeniz mutfağının zarafetini tarihi bir mirasla birleştirmektedir.",
     "tags": ["İtalyan", "tarihi mekan", "avlu", "Galata"],
-    "images": ["ilcortile1.jpg"],
-    "coordinates": { "latitude": 41.025, "longitude": 28.974 },
+    "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERgAApO5Xad8B0wvOzq0nEZkBGdWXe4HhOA&s", "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1191/medium_Il_Cortile_Restaurant_2.jpg", "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1189/medium_Il_Cortile_Galata_2.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl71QRWSO4f2ylJvostmI_CivuTJGe4Pc25A&s"],
+    "coordinates": { "latitude": 41.025, "longitude": 28.897 },
     "sources": ["IL Cortile Website", "theMagger"],
-    "categories": ["İtalyan"]
+    "categories": ["Pizza & İtalyan"]
   },
   {
     "id": "82",
@@ -1235,7 +1235,7 @@
     "images": ["mezzaluna1.jpg"],
     "coordinates": { "latitude": 41.109, "longitude": 29.034 },
     "sources": ["GZT", "Yerel İncelemeler"],
-    "categories": ["İtalyan"]
+    "categories": ["Pizza & İtalyan"]
   },
   {
     "id": "83",
@@ -1253,7 +1253,7 @@
     "images": ["eataly1.jpg"],
     "coordinates": { "latitude": 41.066, "longitude": 29.006 },
     "sources": ["Eataly Website"],
-    "categories": ["İtalyan"]
+    "categories": ["Pizza & İtalyan"]
   },
   {
     "id": "84",
