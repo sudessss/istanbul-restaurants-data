@@ -1284,12 +1284,12 @@
     "price_level": 2,
     "rating": 4.5,
     "opening_hours": "12:00 - 23:00",
-    "description": "Moda'da, özellikle ince hamurlu, yaratıcı ve lezzetli pizzalarıyla bilinen, samimi bir pizzacı.",
+    "description": "Kadıköy'ün tarihi dokusunu modern bir gastronomi anlayışıyla harmanlayan Rita Moda, semtin en karakteristik yapılarından biri olan üç katlı restore edilmiş tarihi bir konakta misafirlerine kapılarını açan çok yönlü bir lezzet durağıdır. Ünlü oyuncu İlker Ayrık’ın da ortakları arasında bulunduğu bu özel mekan, sadece bir restoran olmanın ötesinde; alt katındaki samimi bar alanı, geniş pencereli orta katı ve özel davetlere ev sahipliği yapan üst katıyla günün her saatine uygun farklı bir atmosfer sunar. Menüsünde hem yerel malzemeleri hem de dünya mutfağının rafine dokunuşlarını barındıran Rita Moda; bademli patates püresi eşliğindeki dana kaburga, deniz mahsullü linguine ve yaratıcı başlangıçlarıyla gurme bir deneyim yaşatırken, hemen yanındaki Rita Deli konseptiyle de ev yapımı pastrami ve tütsülenmiş et sandviçleri gibi sokak lezzetlerini en üst kalitede servis eder. Kendi çiftliklerinden gelen taze ürünlerle hazırlanan mevsimsel tabakları, imza kokteylleri ve Moda’nın ruhunu yansıtan dingin ama şık dekorasyonuyla mekan, hem romantik akşam yemeklerinin hem de keyifli hafta sonu buluşmalarının semtteki en prestijli adreslerinden biri haline gelmiştir.",
     "tags": ["pizza", "ince hamur", "İtalyan", "Moda"],
-    "images": ["rita1.jpg"],
-    "coordinates": { "latitude": 40.985, "longitude": 29.026 },
+    "images": ["https://www.istanbulmekanrehberi.com/images/rita-moda.jpg", "https://www.istanbulmekanrehberi.com/images/rita-moda-kadikoy.jpg", "https://www.istanbulmekanrehberi.com/images/rita-kadikoy-moda.jpg", "https://harbiyiyorum.com/wp-content/uploads/rita-moda-2.jpg"],
+    "coordinates": { "latitude": 41.006, "longitude": 29.103 },
     "sources": ["Rita Website", "Yerel İncelemeler"],
-    "categories": ["İtalyan"]
+    "categories": ["Pizza & İtalyan"]
   },
   {
     "id": "86",
