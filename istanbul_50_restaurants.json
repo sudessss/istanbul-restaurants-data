@@ -531,7 +531,7 @@
     "images": ["https://www.cecconisrestaurants.com/media/bwabsiun/mariell-lindhansen-6212.jpg?width=1200&height=675&v=1db611b23ff3260", "https://www.cecconisrestaurants.com/media/dxanruu5/mariell-lindhansen-5932.jpg?rxy=0.5042688311484508,0.6283504895511788&width=1200&height=675&v=1dbb9defa60fca0", "https://www.cecconisrestaurants.com/media/bwabsiun/mariell-lindhansen-6212.jpg?width=1200&height=675&v=1db611b23ff3260", "https://www.cecconisrestaurants.com/media/cqkddqza/mariell-lindhansen-6499.jpg?width=1200&height=675&v=1db611fbd8a4ec0"],
     "coordinates": { "latitude": 41.031, "longitude": 28.977 },
     "sources": ["Cecconi's Website", "Soho House"],
-    "categories": ["Lüks Restoranlar", "Pizza & İtalyan"]
+    "categories": ["Lüks Restoranlar", "İtalyan Mutfağı"]
   },
   {
     "id": "33",
@@ -1145,7 +1145,7 @@
     "images": ["https://www.lokantalarim.net/wp-content/uploads/2017/01/2kb.jpg", "https://fs.damario.com.tr/assets/Gallery/carousel-3.jpg", "https://www.lokantalarim.net/wp-content/uploads/2017/01/P1050540.jpg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/09/74/9d/da-mario-interior-photos.jpg?w=900&h=500&s=1"],
     "coordinates": { "latitude": 40.992, "longitude": 29.104 },
     "sources": ["Da Mario Website", "GZT"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "78",
@@ -1163,7 +1163,7 @@
     "images": ["https://www.lokantalarim.net/wp-content/uploads/2015/02/IMG_1487-2.jpg", "http://www.fahrigediz.com/wp-content/uploads/DSC01722-300x199.jpg", "https://grablocals.com/wp-content/uploads/2022/08/antica-locanda-3-520x397.jpg", "https://www.lokantalarim.net/wp-content/uploads/2015/02/IMG_1555.jpg"],
     "coordinates": { "latitude": 41.056, "longitude": 28.989 },
     "sources": ["Antica Locanda Website", "theMagger"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "79",
@@ -1181,7 +1181,7 @@
     "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/59/af/32/ic-mekanin-bir-bolumu.jpg?w=900&h=500&s=1", "https://www.lascarpetta.com.tr/wp-content/uploads/2015/06/MG_4750.jpg", "https://www.gurmerehber.com/storage/2023/05/Trattoria-La-Scarpetta-Etiler-Pizza.jpeg", "https://www.gurmerehber.com/storage/2023/05/Trattoria-La-Scarpetta-Etiler-Burratta.jpeg"],
     "coordinates": { "latitude": 41.079, "longitude": 29.013 },
     "sources": ["La Scarpetta Website", "GZT"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "80",
@@ -1199,7 +1199,7 @@
     "images": ["https://mudavim.net/wp-content/uploads/2024/06/il-sud-caddebostan-1024x738.jpeg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgEe3cqC2CQLsjRWaEIdnFSmjE-xywxP6NSw&s"],
     "coordinates": { "latitude": 41.015, "longitude": 28.973 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "81",
@@ -1217,7 +1217,7 @@
     "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERgAApO5Xad8B0wvOzq0nEZkBGdWXe4HhOA&s", "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1191/medium_Il_Cortile_Restaurant_2.jpg", "https://istanbultourstudio.s3.amazonaws.com/uploads/media_content/picture/1189/medium_Il_Cortile_Galata_2.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl71QRWSO4f2ylJvostmI_CivuTJGe4Pc25A&s"],
     "coordinates": { "latitude": 41.025, "longitude": 28.897 },
     "sources": ["IL Cortile Website", "theMagger"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "82",
@@ -1235,7 +1235,7 @@
     "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/98/d9/20/getlstd-property-photo.jpg?w=900&h=500&s=1", "https://fs.mezzaluna.com.tr/assets/Mezzaluna-1_Galeri.png", "https://images.deliveryhero.io/image/fd-tr/LH/inod-listing.jpg"],
     "coordinates": { "latitude": 41.031, "longitude": 28.955 },
     "sources": ["GZT", "Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "83",
@@ -1253,7 +1253,7 @@
     "images": ["https://www.istanbulmekanrehberi.com/images/izmir-mekan-rehberi-eataly-zorlu-center443.jpg", "https://www.eataly.com.tr/media/bw2mj4iz/terrazza-görseller-02.jpg", "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/33048/eataly.734c1b9871fc.jpg?", "https://www.eataly.com.tr/media/fxgp2v2y/öne-cikanlar2x.jpg", "https://www.eataly.com.tr/media/kpkkvozh/terrazza-görseller-14.jpg"],
     "coordinates": { "latitude": 41.059, "longitude": 28.989 },
     "sources": ["Eataly Website"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "84",
@@ -1271,7 +1271,7 @@
     "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d5/76/f4/paps-italian.jpg?w=500&h=-1&s=1","https://ymt.com.tr/cache/image/large/2023/12/f4a394c9f5383a4f54db726dca013020.jpg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/a0/ec/79/caption.jpg?w=1100&h=1100&s=1"],
     "coordinates": { "latitude": 41.004, "longitude": 29.067 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "85",
@@ -1289,7 +1289,7 @@
     "images": ["https://www.istanbulmekanrehberi.com/images/rita-moda.jpg", "https://www.istanbulmekanrehberi.com/images/rita-moda-kadikoy.jpg", "https://www.istanbulmekanrehberi.com/images/rita-kadikoy-moda.jpg", "https://harbiyiyorum.com/wp-content/uploads/rita-moda-2.jpg"],
     "coordinates": { "latitude": 41.006, "longitude": 29.103 },
     "sources": ["Rita Website", "Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "86",
@@ -1307,7 +1307,7 @@
     "images": ["https://lamialuce.com/wp-content/uploads/2022/10/295-657A0386-683x1024.jpg", "https://lamialuce.com/wp-content/uploads/2022/10/140-657A9956-1024x683.jpg", "https://lamialuce.com/wp-content/uploads/2022/10/80-657A9798-1024x683.jpg", "https://lamialuce.com/wp-content/uploads/2022/10/461-657A0884-1024x683.jpg"],
     "coordinates": { "latitude": 40.957, "longitude": 29.080 },
     "sources": ["GZT", "Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "87",
@@ -1325,7 +1325,7 @@
     "images": ["https://axwwgrkdco.cloudimg.io/v7/__gmpics3__/983e80c419b241cf8b5f65bec23475a1.jpeg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/13/ae/78/caption.jpg?w=900&h=500&s=1", "https://static.wixstatic.com/media/8d1af6_63e7ad37fbc947b3b13f1ea390d6cee0~mv2.jpeg/v1/fill/w_320,h_290,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d1af6_63e7ad37fbc947b3b13f1ea390d6cee0~mv2.jpeg", "https://www.gevrekandginger.com/media/cache/post_detail/upload/posts/restaurant/Fauna/IMG_6310.JPG"],
     "coordinates": { "latitude": 40.957, "longitude": 29.080 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "88",
@@ -1343,7 +1343,7 @@
     "images": ["https://mudavim.net/wp-content/uploads/2023/08/il-forno-2-1024x684.jpg", "https://www.horecatrend.com/wp-content/uploads/2023/08/Il-Forno-Ristorante.jpeg", "https://media.timeout.com/images/106071786/750/422/image.jpg", "https://images.deliveryhero.io/image/fd-tr/Products/26959148.jpg?width=%25s"],
     "coordinates": { "latitude": 40.957, "longitude": 29.080 },
     "sources": ["Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "91",
@@ -1361,7 +1361,7 @@
     "images": ["https://images.squarespace-cdn.com/content/v1/638931dddf47a848a9e6fa5b/1725654998933-EXU5VSKPJIA2MOL6KEDF/TheOrdinary7-Restaurant-Bar-Charleston-SouthCarolina.jpg", "https://www.lokantalarim.net/wp-content/uploads/2023/02/IMG_8102-scaled.jpg", "https://www.lokantalarim.net/wp-content/uploads/2023/02/IMG_8122-800x500.jpg", "https://www.lokantalarim.net/wp-content/uploads/2023/02/IMG_8118-2-2-2048x1536.jpg", "https://www.lokantalarim.net/wp-content/uploads/2023/02/IMG_8135_jpg-2-2048x1370.jpg"],
     "coordinates": { "latitude": 40.957, "longitude": 29.080 },
     "sources": ["theMagger", "Yerel İncelemeler"],
-    "categories": ["Pizza & İtalyan"]
+    "categories": ["İtalyan Mutfağı"]
   },
   {
     "id": "92",
